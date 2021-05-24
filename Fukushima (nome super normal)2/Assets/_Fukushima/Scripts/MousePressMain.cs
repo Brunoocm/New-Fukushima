@@ -20,7 +20,7 @@ public class MousePressMain : MonoBehaviour
         if(TaCerto())
         {
             anim.SetTrigger("Abrir");
-            print("foooi");
+
         }
 
 

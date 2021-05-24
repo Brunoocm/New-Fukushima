@@ -1,6 +1,10 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using TMPro;
+using UnityEngine.UI;
+using UnityEngine.Events;
+
 
 public class PickUpPistas : InteractableBase
 {
@@ -21,9 +25,20 @@ public class PickUpPistas : InteractableBase
     Vector3 originaPosition;
     Vector3 originalRotation;
 
+    [TextArea] public string[] playerFala;
+    private int index = 0;
+    private bool set;
+    private float timerFala;
+    Image FundoText;
+    TextMeshProUGUI TextForPistas;
+
+    [SerializeField] UnityEvent m_MyEvent;
+
     private void Start()
     {
         pistaScript = FindObjectOfType<PistasSpawn>();
+        FundoText = GameObject.Find("TextForPistas").GetComponentInChildren<Image>();
+        TextForPistas = GameObject.Find("TextForPistas").GetComponentInChildren<TextMeshProUGUI>();
 
         mainCam = Camera.main;
         fixPos = GameObject.Find("InspectPos");
@@ -46,6 +61,8 @@ public class PickUpPistas : InteractableBase
         TurnObject();
 
         ExitExamineMode();
+
+        timer();
     }
 
     void Spawn()
@@ -57,6 +74,9 @@ public class PickUpPistas : InteractableBase
                 GameObject spawn = Instantiate(prefabPistas, pistaScript.pistasPivotSpawner[i].transform.position, pistaScript.pistasPivotSpawner[i].transform.rotation);
                 spawn.transform.parent = pistaScript.pistasPivotSpawner[i].transform;
 
+                StartCoroutine(TrueVoid());
+
+                m_MyEvent.Invoke();
             }
             umaVez = true;
         }
@@ -109,6 +129,43 @@ public class PickUpPistas : InteractableBase
 
             examineMode = false;
         }
+
+    }
+
+    IEnumerator TrueVoid()
+    {
+        yield return new WaitForSeconds(0.5f);
+        set = true;
+
+    }
+
+    void timer()
+    {
+        int num = playerFala.Length;
+
+        if (set)
+        {
+            if (index < num && timerFala <= 0)
+            {
+                TextForPistas.text = playerFala[index];
+                FundoText.enabled = true;
+                timerFala = 5;
+
+
+                index++;
+
+
+            }
+            else if (index == num && timerFala <= 0)
+            {
+                set = false;
+                TextForPistas.text = "";
+                FundoText.enabled = false;
+            }
+
+            timerFala -= Time.deltaTime;
+        }
+
 
     }
 

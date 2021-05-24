@@ -2678,7 +2678,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 458144347}
   m_LocalRotation: {x: -0, y: -0.62314, z: -0, w: -0.78211033}
-  m_LocalPosition: {x: 4.35, y: 0.282, z: 7.03}
+  m_LocalPosition: {x: 4.18, y: 0.282, z: 5.023}
   m_LocalScale: {x: 0.21834394, y: 0.0016582832, z: 0.34179562}
   m_Children: []
   m_Father: {fileID: 1259398211}
@@ -2777,12 +2777,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   holdInteract: 1
-  holdDuration: 1
+  holdDuration: 0.5
   isInteractable: 1
   hasMission: 0
   tooltipMessage: Carta
   prefabPistas: {fileID: 1900866989209497061, guid: 965f863cd1db26f49bfdecd85ff9b68e, type: 3}
   UIText: {fileID: 594649802}
+  playerFala:
+  - oi tudo bem com vc hahahah :)
+  - Adoro ficar programandinho ebaaaaaaa
+  m_MyEvent:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1001 &498108993
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3281,6 +3287,10 @@ PrefabInstance:
     - target: {fileID: 7630400913208578387, guid: f79175a9baaf5b8418aea83c4636aa67, type: 3}
       propertyPath: m_RenderMode
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7630400913208578387, guid: f79175a9baaf5b8418aea83c4636aa67, type: 3}
+      propertyPath: m_Lightmapping
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 7630400913208578387, guid: f79175a9baaf5b8418aea83c4636aa67, type: 3}
       propertyPath: m_Shadows.m_Type
@@ -3843,6 +3853,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 306874272203397133, guid: 8688206ca2e22b4418e92aa99bcdd8b4, type: 3}
+      propertyPath: m_Name
+      value: Delegacia
+      objectReference: {fileID: 0}
     - target: {fileID: 2213363677028776369, guid: 8688206ca2e22b4418e92aa99bcdd8b4, type: 3}
       propertyPath: fov
       value: 75
@@ -5834,6 +5848,10 @@ MonoBehaviour:
   tooltipMessage: ???
   prefabPistas: {fileID: 1900866989209497061, guid: 8d121602d9b9f4e44accea5856cac1c6, type: 3}
   UIText: {fileID: 594649802}
+  playerFala: []
+  m_MyEvent:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!65 &1041800160
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -6783,6 +6801,10 @@ MonoBehaviour:
   tooltipMessage: Carta
   prefabPistas: {fileID: 1900866989209497061, guid: 845ccafa40f5c8848acf55da2fa98489, type: 3}
   UIText: {fileID: 594649802}
+  playerFala: []
+  m_MyEvent:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!65 &1170419814
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -8153,6 +8175,10 @@ MonoBehaviour:
   tooltipMessage: Foto
   prefabPistas: {fileID: 1900866989209497061, guid: 3301410d0e325014ab25606194cd541f, type: 3}
   UIText: {fileID: 594649802}
+  playerFala: []
+  m_MyEvent:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &1567356405
 GameObject:
   m_ObjectHideFlags: 0
@@ -10577,6 +10603,17 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 1999234800749847203, guid: 96463eba78f068a49ab1e4934d921393, type: 3}
   m_PrefabInstance: {fileID: 2011084900}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &2031674315 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 3600017946931944379, guid: 8688206ca2e22b4418e92aa99bcdd8b4, type: 3}
+  m_PrefabInstance: {fileID: 635907578}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f095778846aded48b98b0aba4dc3f06, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &2052238628
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -12445,6 +12482,30 @@ PrefabInstance:
       propertyPath: UIText
       value: 
       objectReference: {fileID: 594649802}
+    - target: {fileID: 585670678138312737, guid: 6197ebddc1f3608469e51b1218b862cf, type: 3}
+      propertyPath: playerFala.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 585670678138312737, guid: 6197ebddc1f3608469e51b1218b862cf, type: 3}
+      propertyPath: playerFala.Array.data[0]
+      value: oi
+      objectReference: {fileID: 0}
+    - target: {fileID: 585670678138312737, guid: 6197ebddc1f3608469e51b1218b862cf, type: 3}
+      propertyPath: m_MyEvent.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 585670678138312737, guid: 6197ebddc1f3608469e51b1218b862cf, type: 3}
+      propertyPath: m_MyEvent.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 2031674315}
+    - target: {fileID: 585670678138312737, guid: 6197ebddc1f3608469e51b1218b862cf, type: 3}
+      propertyPath: m_MyEvent.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: setTrueDelegado
+      objectReference: {fileID: 0}
+    - target: {fileID: 585670678138312737, guid: 6197ebddc1f3608469e51b1218b862cf, type: 3}
+      propertyPath: m_MyEvent.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: MapaChange, Assembly-CSharp
+      objectReference: {fileID: 0}
     - target: {fileID: 4983143951471589784, guid: 6197ebddc1f3608469e51b1218b862cf, type: 3}
       propertyPath: m_RootOrder
       value: 12
