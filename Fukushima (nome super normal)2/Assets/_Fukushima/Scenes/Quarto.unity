@@ -12491,21 +12491,9 @@ PrefabInstance:
       value: oi
       objectReference: {fileID: 0}
     - target: {fileID: 585670678138312737, guid: 6197ebddc1f3608469e51b1218b862cf, type: 3}
-      propertyPath: m_MyEvent.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 585670678138312737, guid: 6197ebddc1f3608469e51b1218b862cf, type: 3}
       propertyPath: m_MyEvent.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
       objectReference: {fileID: 2031674315}
-    - target: {fileID: 585670678138312737, guid: 6197ebddc1f3608469e51b1218b862cf, type: 3}
-      propertyPath: m_MyEvent.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
-      value: setTrueDelegado
-      objectReference: {fileID: 0}
-    - target: {fileID: 585670678138312737, guid: 6197ebddc1f3608469e51b1218b862cf, type: 3}
-      propertyPath: m_MyEvent.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
-      value: MapaChange, Assembly-CSharp
-      objectReference: {fileID: 0}
     - target: {fileID: 4983143951471589784, guid: 6197ebddc1f3608469e51b1218b862cf, type: 3}
       propertyPath: m_RootOrder
       value: 12

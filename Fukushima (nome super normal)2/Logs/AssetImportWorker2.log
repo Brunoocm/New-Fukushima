@@ -529,3 +529,1306 @@ Received Import Request.
 Start importing Assets/_Fukushima/Scripts/Pistas/PistasPrefabs/Prefab_BlocoDeNotas.prefab using Guid(04a36a7140cbc964e9d2b932077460ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7417f60eb27dec34d8ff7b7358c9b7b8') in 0.007881 seconds
   Import took 0.015573 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 695.383865 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasArte/Carta_de_Revelacao.png
+  artifactKey: Guid(5c8dac4e3539fad498148420978f3957) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasArte/Carta_de_Revelacao.png using Guid(5c8dac4e3539fad498148420978f3957) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ad72b3ecdc773dbf360fc8b111f9230') in 0.111161 seconds
+  Import took 0.117734 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.881496 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasArte/Celular_do_Marido.png
+  artifactKey: Guid(157dce175f7d2b949b2c35810fec6b76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasArte/Celular_do_Marido.png using Guid(157dce175f7d2b949b2c35810fec6b76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4408697e3d48b1f93871e6ced5f6305d') in 0.048844 seconds
+  Import took 0.066859 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.328813 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasArte/Colar_Amante.png
+  artifactKey: Guid(e8596de2f1045824992e741de303fd72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasArte/Colar_Amante.png using Guid(e8596de2f1045824992e741de303fd72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ee8c436e362b221b7d9bc677d352556') in 0.024955 seconds
+  Import took 0.052846 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.294608 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasArte/Ficha_TEPCO.png
+  artifactKey: Guid(04d1916db9a07b5458d171cb44058f03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasArte/Ficha_TEPCO.png using Guid(04d1916db9a07b5458d171cb44058f03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '516b6887cb82a10def211e5ad1c6449b') in 0.038394 seconds
+  Import took 0.043980 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.216746 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasArte/Foto.png
+  artifactKey: Guid(38da6d97583ec6e489796cdc710ad7aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasArte/Foto.png using Guid(38da6d97583ec6e489796cdc710ad7aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ad6bdab7d774b9e55a30940ee9ee189') in 0.020548 seconds
+  Import took 0.026494 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.344464 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasArte/Jornal.png
+  artifactKey: Guid(ffe0887f2d892b249bd75841989e35c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasArte/Jornal.png using Guid(ffe0887f2d892b249bd75841989e35c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20ca1249400bbd30f8ab0fdc212165d2') in 0.019301 seconds
+  Import took 0.034632 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.292993 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasArte/Notas.png
+  artifactKey: Guid(f1ff47e352fe1944abc8f97eae17ac32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasArte/Notas.png using Guid(f1ff47e352fe1944abc8f97eae17ac32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e30008e13686400c90e8d1e49bcd4f85') in 0.049450 seconds
+  Import took 0.054758 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.989518 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasArte/O_Misterio_de_Fukushima.png
+  artifactKey: Guid(10f3da02ce412d94cae5906c2fd391e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasArte/O_Misterio_de_Fukushima.png using Guid(10f3da02ce412d94cae5906c2fd391e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1d33039b95e7395571b5a2d68697974') in 0.023958 seconds
+  Import took 0.038790 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.158339 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasArte/Pistas.png
+  artifactKey: Guid(015a802df0ec82a4ca9aaf3e3ad433d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasArte/Pistas.png using Guid(015a802df0ec82a4ca9aaf3e3ad433d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc9be10aaa9f0c52ca0cd20f652f80d0') in 0.038266 seconds
+  Import took 0.052853 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.127421 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasArte/Porao.QG.png
+  artifactKey: Guid(eee32cca1dbee164793cb89de37015b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasArte/Porao.QG.png using Guid(eee32cca1dbee164793cb89de37015b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f48a840d0d424a7813a9e550c08a153c') in 0.033219 seconds
+  Import took 0.048233 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.136646 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasArte/Post-It.png
+  artifactKey: Guid(2c067d8039244c742b5b98eed5593ca8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasArte/Post-It.png using Guid(2c067d8039244c742b5b98eed5593ca8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e4e20877cb1870037079985556a7e28') in 0.020206 seconds
+  Import took 0.028667 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001830 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.79 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.311 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.73 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2758 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 136.0 MB.
+System memory in use after: 136.2 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3369.
+Total: 6.075800 ms (FindLiveObjects: 1.162000 ms CreateObjectMapping: 0.480600 ms MarkObjects: 4.277100 ms  DeleteObjects: 0.152700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001961 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.05 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.151 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.78 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2758 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 136.0 MB.
+System memory in use after: 136.2 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3371.
+Total: 4.564200 ms (FindLiveObjects: 0.384200 ms CreateObjectMapping: 0.094500 ms MarkObjects: 3.974100 ms  DeleteObjects: 0.109800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 4194.517794 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasData/Bloco De Notas.asset
+  artifactKey: Guid(43792d2f3c757034a88fdf07cfe2963b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasData/Bloco De Notas.asset using Guid(43792d2f3c757034a88fdf07cfe2963b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1c6ecda987eba7ec0f5438402ce8a16') in 0.061212 seconds
+  Import took 0.132050 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001929 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.83 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.143 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.10 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2758 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 136.0 MB.
+System memory in use after: 136.2 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3373.
+Total: 6.259000 ms (FindLiveObjects: 0.576000 ms CreateObjectMapping: 0.318400 ms MarkObjects: 5.208600 ms  DeleteObjects: 0.153200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 160.336394 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasArte/Local_Selecionado.png
+  artifactKey: Guid(4add832446733f846a96de9e0c4ec9c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasArte/Local_Selecionado.png using Guid(4add832446733f846a96de9e0c4ec9c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9f893852bce607e2b68d235efb126ad') in 0.054524 seconds
+  Import took 0.062073 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006104 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasArte/Local_Selecionado.png
+  artifactKey: Guid(4add832446733f846a96de9e0c4ec9c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasArte/Local_Selecionado.png using Guid(4add832446733f846a96de9e0c4ec9c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9f893852bce607e2b68d235efb126ad') in 0.035665 seconds
+  Import took 0.041478 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.029696 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasArte/Local_Nao_Selecionado.png
+  artifactKey: Guid(788a5bb63ff6bcb40abfc009e0642232) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasArte/Local_Nao_Selecionado.png using Guid(788a5bb63ff6bcb40abfc009e0642232) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8ff1c378c04a1c65c1fd16096cb65f2') in 0.017643 seconds
+  Import took 0.068814 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.412453 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasArte/Local_Nao_Selecionado.png
+  artifactKey: Guid(788a5bb63ff6bcb40abfc009e0642232) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasArte/Local_Nao_Selecionado.png using Guid(788a5bb63ff6bcb40abfc009e0642232) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1583317c96820e1fce9a386ac54274f8') in 0.044777 seconds
+  Import took 0.069098 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001989 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.15 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.126 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.03 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2758 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 136.1 MB.
+System memory in use after: 136.3 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3376.
+Total: 3.890200 ms (FindLiveObjects: 0.433300 ms CreateObjectMapping: 0.105200 ms MarkObjects: 3.225600 ms  DeleteObjects: 0.124400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001758 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.78 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.048 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2758 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 136.1 MB.
+System memory in use after: 136.3 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3378.
+Total: 5.476100 ms (FindLiveObjects: 0.447400 ms CreateObjectMapping: 0.114100 ms MarkObjects: 4.710300 ms  DeleteObjects: 0.202100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001820 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.99 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.137 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.83 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2758 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 136.1 MB.
+System memory in use after: 136.3 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3380.
+Total: 5.728100 ms (FindLiveObjects: 0.342400 ms CreateObjectMapping: 0.082700 ms MarkObjects: 5.191700 ms  DeleteObjects: 0.109200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 2050.758532 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS
+  artifactKey: Guid(f6d94f68e5f6f7548a35c287a20ee311) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS using Guid(f6d94f68e5f6f7548a35c287a20ee311) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7f7cca3065d6f6287fbdaa2236ed59d') in 0.017779 seconds
+  Import took 0.051776 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.963699 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Modelos 3D
+  artifactKey: Guid(c356a061c919297488f3961363689411) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Modelos 3D using Guid(c356a061c919297488f3961363689411) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e9dc2f8fea982be683d71f5dc745609') in 0.010184 seconds
+  Import took 0.015621 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.423204 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos
+  artifactKey: Guid(784b14a18753b9c41beda9066f96b061) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos using Guid(784b14a18753b9c41beda9066f96b061) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81377b57f1740379a487e36cee47b4d8') in 0.011682 seconds
+  Import took 0.044476 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 59.197047 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/Post It Texturizado.fbx
+  artifactKey: Guid(3100ea5b0fc13224aa6b920680723cba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/Post It Texturizado.fbx using Guid(3100ea5b0fc13224aa6b920680723cba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6a206344dc40adab301f0b6e0ed507a') in 0.411796 seconds
+  Import took 0.417347 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.267998 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/Post It
+  artifactKey: Guid(3deab1fb145d82d459a7b91d63b39bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/Post It using Guid(3deab1fb145d82d459a7b91d63b39bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5759fd66ee76ba0529563b41eaa948e3') in 0.008243 seconds
+  Import took 0.014228 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000428 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/Post It
+  artifactKey: Guid(3deab1fb145d82d459a7b91d63b39bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/Post It using Guid(3deab1fb145d82d459a7b91d63b39bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5759fd66ee76ba0529563b41eaa948e3') in 0.003656 seconds
+  Import took 0.010264 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.742169 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/Post It/Post It Texturizado.fbx
+  artifactKey: Guid(3100ea5b0fc13224aa6b920680723cba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/Post It/Post It Texturizado.fbx using Guid(3100ea5b0fc13224aa6b920680723cba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '575506a880a2ed795ec74a7c8fe10111') in 0.038457 seconds
+  Import took 0.044057 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.779917 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/Post It/Post It Texturizado.fbx
+  artifactKey: Guid(3100ea5b0fc13224aa6b920680723cba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/Post It/Post It Texturizado.fbx using Guid(3100ea5b0fc13224aa6b920680723cba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b32e4f7027a8c23c27e18215d8d28125') in 0.032797 seconds
+  Import took 0.045590 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.991934 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/Post It/Post It Texturizado.prefab
+  artifactKey: Guid(6197ebddc1f3608469e51b1218b862cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/Post It/Post It Texturizado.prefab using Guid(6197ebddc1f3608469e51b1218b862cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d3d2246b6cb35abfa38989ff2cf0f14') in 0.027393 seconds
+  Import took 0.048160 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009037 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/Post It/Post It Texturizado.prefab
+  artifactKey: Guid(6197ebddc1f3608469e51b1218b862cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/Post It/Post It Texturizado.prefab using Guid(6197ebddc1f3608469e51b1218b862cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d3d2246b6cb35abfa38989ff2cf0f14') in 0.020080 seconds
+  Import took 0.026108 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002244 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.81 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.075 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.07 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2758 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 138.8 MB.
+System memory in use after: 139.0 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3460.
+Total: 4.424100 ms (FindLiveObjects: 0.705300 ms CreateObjectMapping: 0.412200 ms MarkObjects: 3.137500 ms  DeleteObjects: 0.166800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002618 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 2.12 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.203 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.92 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2758 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 138.8 MB.
+System memory in use after: 139.0 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3462.
+Total: 4.994000 ms (FindLiveObjects: 0.425100 ms CreateObjectMapping: 0.182400 ms MarkObjects: 4.225800 ms  DeleteObjects: 0.158900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001924 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.86 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.165 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2758 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 138.8 MB.
+System memory in use after: 139.0 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3464.
+Total: 4.520400 ms (FindLiveObjects: 0.452400 ms CreateObjectMapping: 0.105100 ms MarkObjects: 3.702100 ms  DeleteObjects: 0.258500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 667.868756 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/carta_Delegado.fbx
+  artifactKey: Guid(66ed68559c49ffa42b0e8432b38615b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/carta_Delegado.fbx using Guid(66ed68559c49ffa42b0e8432b38615b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be6fffa225fa095cef20cc1317cad156') in 0.244838 seconds
+  Import took 0.281131 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001550 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.117 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2758 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 139.0 MB.
+System memory in use after: 139.2 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3502.
+Total: 5.567600 ms (FindLiveObjects: 0.491900 ms CreateObjectMapping: 0.111100 ms MarkObjects: 4.818800 ms  DeleteObjects: 0.143700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002307 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.85 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.154 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.90 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2758 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 139.0 MB.
+System memory in use after: 139.2 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3504.
+Total: 4.975000 ms (FindLiveObjects: 0.529700 ms CreateObjectMapping: 0.182800 ms MarkObjects: 4.111600 ms  DeleteObjects: 0.149200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002427 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.45 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.267 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2758 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 139.0 MB.
+System memory in use after: 139.2 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3506.
+Total: 5.605200 ms (FindLiveObjects: 0.646600 ms CreateObjectMapping: 0.524300 ms MarkObjects: 4.312800 ms  DeleteObjects: 0.119400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 873.264395 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PickUpPistas.cs
+  artifactKey: Guid(34799411f458bd64592fc090c897e2aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PickUpPistas.cs using Guid(34799411f458bd64592fc090c897e2aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd56173d4fca0ea6ad5e7d0fef98106ef') in 0.032170 seconds
+  Import took 0.073289 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 194.715372 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PickUpPistas.cs
+  artifactKey: Guid(34799411f458bd64592fc090c897e2aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PickUpPistas.cs using Guid(34799411f458bd64592fc090c897e2aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '499a9310059a4a192e8a496ac66a8962') in 0.003226 seconds
+  Import took 0.011430 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001886 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.85 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.424 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.74 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2758 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 139.0 MB.
+System memory in use after: 139.2 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3508.
+Total: 4.666400 ms (FindLiveObjects: 0.610700 ms CreateObjectMapping: 0.308400 ms MarkObjects: 3.631000 ms  DeleteObjects: 0.114100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 228.906936 seconds.
+  path: Assets/_Fukushima/AllSprites/Texto_Pensamento.png
+  artifactKey: Guid(2da501bb91834c743ac4440241ff0fb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/AllSprites/Texto_Pensamento.png using Guid(2da501bb91834c743ac4440241ff0fb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '038df842d3d05dab314660cc72ff0225') in 0.069374 seconds
+  Import took 0.075148 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.867103 seconds.
+  path: Assets/_Fukushima/AllSprites/Texto_Pensamento.png
+  artifactKey: Guid(2da501bb91834c743ac4440241ff0fb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/AllSprites/Texto_Pensamento.png using Guid(2da501bb91834c743ac4440241ff0fb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a30a05c0b7e6ad47a7f544bf2af1c505') in 0.039433 seconds
+  Import took 0.059688 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001974 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.79 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.196 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.75 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2758 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 139.0 MB.
+System memory in use after: 139.2 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3512.
+Total: 3.725700 ms (FindLiveObjects: 0.522900 ms CreateObjectMapping: 0.175200 ms MarkObjects: 2.919700 ms  DeleteObjects: 0.106100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001467 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.11 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.147 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.72 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2758 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 139.0 MB.
+System memory in use after: 139.2 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3514.
+Total: 3.983900 ms (FindLiveObjects: 0.472600 ms CreateObjectMapping: 0.128800 ms MarkObjects: 3.223000 ms  DeleteObjects: 0.157800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001630 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.99 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.080 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.70 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2758 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 139.0 MB.
+System memory in use after: 139.2 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3516.
+Total: 3.797900 ms (FindLiveObjects: 0.393800 ms CreateObjectMapping: 0.120200 ms MarkObjects: 3.175700 ms  DeleteObjects: 0.106600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001933 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.82 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.067 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.70 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2758 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 139.0 MB.
+System memory in use after: 139.2 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3518.
+Total: 4.321000 ms (FindLiveObjects: 0.400600 ms CreateObjectMapping: 0.109500 ms MarkObjects: 3.673800 ms  DeleteObjects: 0.135200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002080 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.84 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.195 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.86 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2758 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 139.0 MB.
+System memory in use after: 139.2 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3520.
+Total: 4.784100 ms (FindLiveObjects: 0.413100 ms CreateObjectMapping: 0.098000 ms MarkObjects: 4.156500 ms  DeleteObjects: 0.114800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002117 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.422 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2758 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 139.0 MB.
+System memory in use after: 139.2 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3522.
+Total: 4.066800 ms (FindLiveObjects: 0.379300 ms CreateObjectMapping: 0.092900 ms MarkObjects: 3.455800 ms  DeleteObjects: 0.136700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001832 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.285 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2758 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 139.0 MB.
+System memory in use after: 139.2 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3524.
+Total: 4.292900 ms (FindLiveObjects: 0.503700 ms CreateObjectMapping: 0.131800 ms MarkObjects: 3.543400 ms  DeleteObjects: 0.112400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002001 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.060 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2758 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 139.0 MB.
+System memory in use after: 139.2 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3526.
+Total: 4.618900 ms (FindLiveObjects: 0.618000 ms CreateObjectMapping: 0.382000 ms MarkObjects: 3.511800 ms  DeleteObjects: 0.105300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001715 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.216 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.12 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2758 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 139.0 MB.
+System memory in use after: 139.2 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3528.
+Total: 4.140000 ms (FindLiveObjects: 0.375900 ms CreateObjectMapping: 0.091600 ms MarkObjects: 3.554000 ms  DeleteObjects: 0.116700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001793 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.87 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.033 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.82 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2758 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 139.0 MB.
+System memory in use after: 139.2 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3530.
+Total: 3.664000 ms (FindLiveObjects: 0.369200 ms CreateObjectMapping: 0.081500 ms MarkObjects: 3.099600 ms  DeleteObjects: 0.112200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001719 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.86 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.279 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.73 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2758 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 139.1 MB.
+System memory in use after: 139.3 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3532.
+Total: 7.303700 ms (FindLiveObjects: 0.364800 ms CreateObjectMapping: 0.091200 ms MarkObjects: 6.662600 ms  DeleteObjects: 0.183400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001818 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.80 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.292 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.73 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2758 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 139.1 MB.
+System memory in use after: 139.3 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3534.
+Total: 4.645600 ms (FindLiveObjects: 0.415100 ms CreateObjectMapping: 0.136000 ms MarkObjects: 3.938900 ms  DeleteObjects: 0.154000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001717 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.80 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.129 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.01 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2758 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 139.1 MB.
+System memory in use after: 139.3 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3536.
+Total: 4.081700 ms (FindLiveObjects: 0.372000 ms CreateObjectMapping: 0.082100 ms MarkObjects: 3.420600 ms  DeleteObjects: 0.205500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001570 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.073 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.75 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2758 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 139.1 MB.
+System memory in use after: 139.3 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3538.
+Total: 3.738000 ms (FindLiveObjects: 0.403200 ms CreateObjectMapping: 0.109900 ms MarkObjects: 3.100500 ms  DeleteObjects: 0.122600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001933 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.56 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.451 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.46 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2758 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 139.1 MB.
+System memory in use after: 139.3 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3540.
+Total: 6.369400 ms (FindLiveObjects: 0.603200 ms CreateObjectMapping: 0.261300 ms MarkObjects: 5.311900 ms  DeleteObjects: 0.188900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002190 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.79 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.158 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.12 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2758 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 139.1 MB.
+System memory in use after: 139.3 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3542.
+Total: 6.606400 ms (FindLiveObjects: 0.591300 ms CreateObjectMapping: 0.355000 ms MarkObjects: 5.460100 ms  DeleteObjects: 0.197700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002106 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.07 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.441 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.49 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2758 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 139.1 MB.
+System memory in use after: 139.3 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3544.
+Total: 7.147500 ms (FindLiveObjects: 0.701200 ms CreateObjectMapping: 0.332800 ms MarkObjects: 5.984800 ms  DeleteObjects: 0.127000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002190 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.92 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.145 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.73 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2758 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 139.1 MB.
+System memory in use after: 139.3 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3546.
+Total: 3.631800 ms (FindLiveObjects: 0.377900 ms CreateObjectMapping: 0.081100 ms MarkObjects: 3.015700 ms  DeleteObjects: 0.155600 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
