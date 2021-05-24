@@ -3,7 +3,37 @@ guid: 3100ea5b0fc13224aa6b920680723cba
 ModelImporter:
   serializedVersion: 20200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: 9c9a1783a29029a439479e46a3be65c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: c7e38c3125ca5a948935d6827ab14816, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: post-it_
+    second: {fileID: 2800000, guid: b14324a2e790ae448ab6365f5a624773, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: post-it_lambert1_AlbedoTransparency
+    second: {fileID: 2800000, guid: dfd1065b0084cc34dbb2049fd1c91b4c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: post-it_lambert1_MetallicSmoothness
+    second: {fileID: 2800000, guid: 3b17b8b48194f364ca7763c9fee6a1b5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: post-it_lambert1_Normal
+    second: {fileID: 2800000, guid: ecf6ec2747aea0343a02421442dfb1ae, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0

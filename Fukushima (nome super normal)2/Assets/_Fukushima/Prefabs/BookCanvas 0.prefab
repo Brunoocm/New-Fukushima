@@ -4511,7 +4511,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 8e467947c76a97c4cb40970ec7fcb984, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 788a5bb63ff6bcb40abfc009e0642232, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -5955,7 +5955,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 8e467947c76a97c4cb40970ec7fcb984, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 788a5bb63ff6bcb40abfc009e0642232, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -5995,8 +5995,8 @@ MonoBehaviour:
     m_FadeDuration: 0.1
   m_SpriteState:
     m_HighlightedSprite: {fileID: 0}
-    m_PressedSprite: {fileID: 21300000, guid: 7721980d9d3c55145a363129f919cbd7, type: 3}
-    m_SelectedSprite: {fileID: 21300000, guid: 7721980d9d3c55145a363129f919cbd7, type: 3}
+    m_PressedSprite: {fileID: 21300000, guid: 4add832446733f846a96de9e0c4ec9c6, type: 3}
+    m_SelectedSprite: {fileID: 21300000, guid: 4add832446733f846a96de9e0c4ec9c6, type: 3}
     m_DisabledSprite: {fileID: 0}
   m_AnimationTriggers:
     m_NormalTrigger: Normal
@@ -7232,7 +7232,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 8e467947c76a97c4cb40970ec7fcb984, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 788a5bb63ff6bcb40abfc009e0642232, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -7272,8 +7272,8 @@ MonoBehaviour:
     m_FadeDuration: 0.1
   m_SpriteState:
     m_HighlightedSprite: {fileID: 0}
-    m_PressedSprite: {fileID: 21300000, guid: 7721980d9d3c55145a363129f919cbd7, type: 3}
-    m_SelectedSprite: {fileID: 21300000, guid: 7721980d9d3c55145a363129f919cbd7, type: 3}
+    m_PressedSprite: {fileID: 21300000, guid: 4add832446733f846a96de9e0c4ec9c6, type: 3}
+    m_SelectedSprite: {fileID: 21300000, guid: 4add832446733f846a96de9e0c4ec9c6, type: 3}
     m_DisabledSprite: {fileID: 0}
   m_AnimationTriggers:
     m_NormalTrigger: Normal
