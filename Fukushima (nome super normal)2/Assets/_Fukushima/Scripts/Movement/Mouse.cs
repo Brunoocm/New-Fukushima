@@ -18,7 +18,7 @@ public class Mouse : MonoBehaviour
     void Start()
     {
         sensitivity = mouseSensitivity;
-        maoCaderno.SetActive(true);
+        maoCaderno.SetActive(false);
     }
 
     void Update()
