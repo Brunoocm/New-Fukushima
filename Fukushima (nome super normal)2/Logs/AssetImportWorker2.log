@@ -1,0 +1,531 @@
+Using pre-set license
+Built from '2020.2/staging' branch; Version is '2020.2.6f1 (8a2143876886) revision 9052483'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 18363.1440; Version 1909; 64bit' Language: 'pt' Physical Memory: 14267 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.2.6f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker2
+-projectPath
+D:/Unity/SuperNovoFukushima/Fukushima-GitHub/New-Fukushima/Fukushima (nome super normal)2
+-logFile
+Logs/AssetImportWorker2.log
+-srvPort
+65459
+Successfully changed project path to: D:/Unity/SuperNovoFukushima/Fukushima-GitHub/New-Fukushima/Fukushima (nome super normal)2
+D:/Unity/SuperNovoFukushima/Fukushima-GitHub/New-Fukushima/Fukushima (nome super normal)2
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 83.84 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.6f1 (8a2143876886)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Unity/SuperNovoFukushima/Fukushima-GitHub/New-Fukushima/Fukushima (nome super normal)2/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 Ti (ID=0x1c82)
+    Vendor:   
+    VRAM:     4018 MB
+    Driver:   27.21.14.5671
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56996
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002905 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 84.88 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.306 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001879 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 88.91 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.929 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.11 seconds
+Refreshing native plugins compatible for Editor in 0.67 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2913 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 142.6 MB.
+System memory in use after: 142.7 MB.
+
+Unloading 97 unused Assets to reduce memory usage. Loaded Objects now: 3350.
+Total: 3.634400 ms (FindLiveObjects: 0.455100 ms CreateObjectMapping: 0.135000 ms MarkObjects: 2.778100 ms  DeleteObjects: 0.263600 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/_Fukushima/AllSprites/Pagina_1.png
+  artifactKey: Guid(9d1463539fd136e42b424bb12bef941c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/AllSprites/Pagina_1.png using Guid(9d1463539fd136e42b424bb12bef941c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a7544555deb4bdd7efb91eed2870e19') in 0.204716 seconds
+  Import took 0.244396 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/_Fukushima/AllSprites/Pagina_Pistas.png
+  artifactKey: Guid(11580b69e5d3d2a4f9425ea1253de8f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/AllSprites/Pagina_Pistas.png using Guid(11580b69e5d3d2a4f9425ea1253de8f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04387eb54b97ce30042acdb16be83351') in 0.030730 seconds
+  Import took 0.062221 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000631 seconds.
+  path: Assets/_Fukushima/AllSprites/Pagina_de_Notas.png
+  artifactKey: Guid(ed113a3377c8f2e48b055cc7ee933178) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/AllSprites/Pagina_de_Notas.png using Guid(ed113a3377c8f2e48b055cc7ee933178) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23c96569cf694caff0731adcc620eb53') in 0.055763 seconds
+  Import took 0.090149 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/_Fukushima/AllSprites/risco.png
+  artifactKey: Guid(86fcb50eab39b3f469edf0b7ae8d8145) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/AllSprites/risco.png using Guid(86fcb50eab39b3f469edf0b7ae8d8145) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8e588fd88acc1253ac49161b861320a') in 0.068224 seconds
+  Import took 0.084808 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/_Fukushima/AllSprites/Pagina_0.png
+  artifactKey: Guid(d603a98035bbf7c4698b216938dcb832) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/AllSprites/Pagina_0.png using Guid(d603a98035bbf7c4698b216938dcb832) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb5d2c1930cdcfadcf84f3de4f7d3e73') in 0.038699 seconds
+  Import took 0.062853 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/_Fukushima/AllSprites/Folha_em_Branco.png
+  artifactKey: Guid(dc0687031d727284fbdd31f0094d877d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/AllSprites/Folha_em_Branco.png using Guid(dc0687031d727284fbdd31f0094d877d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2fafe035c71735c5e82fd3f5b20edd6a') in 0.066753 seconds
+  Import took 0.090176 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001977 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.155 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.84 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2758 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 135.9 MB.
+System memory in use after: 136.1 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3360.
+Total: 4.971900 ms (FindLiveObjects: 0.572200 ms CreateObjectMapping: 0.475800 ms MarkObjects: 3.793600 ms  DeleteObjects: 0.128100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003938 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.51 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.505 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.58 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2758 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 135.9 MB.
+System memory in use after: 136.1 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3362.
+Total: 8.630000 ms (FindLiveObjects: 1.199300 ms CreateObjectMapping: 0.620600 ms MarkObjects: 6.686700 ms  DeleteObjects: 0.121000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 2708.543867 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasArte
+  artifactKey: Guid(b6565da33729eeb47a63789f9e9ada2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasArte using Guid(b6565da33729eeb47a63789f9e9ada2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b0d71517b650934102bf9d5fe88866d') in 0.018298 seconds
+  Import took 0.038949 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 297.478962 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasArte/Carta_de_Revelacao.png
+  artifactKey: Guid(5c8dac4e3539fad498148420978f3957) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasArte/Carta_de_Revelacao.png using Guid(5c8dac4e3539fad498148420978f3957) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0c44b7e8d6243767cfd60972278ddc2') in 0.071811 seconds
+  Import took 0.117136 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.134722 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasArte/Carta_Delegado.png
+  artifactKey: Guid(a7fe91b8ea2c9d943ac1a04a7d2f240a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasArte/Carta_Delegado.png using Guid(a7fe91b8ea2c9d943ac1a04a7d2f240a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b5209e9205c89533e5ffc764cc4e5be') in 0.014553 seconds
+  Import took 0.041371 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.269378 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasArte/Carta_Delegado.png
+  artifactKey: Guid(a7fe91b8ea2c9d943ac1a04a7d2f240a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasArte/Carta_Delegado.png using Guid(a7fe91b8ea2c9d943ac1a04a7d2f240a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b17da1f18cbb49f053c7c5ae15fc8806') in 0.168684 seconds
+  Import took 0.198572 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 173.790622 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasData/Bloco De Notas.asset
+  artifactKey: Guid(43792d2f3c757034a88fdf07cfe2963b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasData/Bloco De Notas.asset using Guid(43792d2f3c757034a88fdf07cfe2963b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a023d0e285dfa5213eec6469bb7075c') in 0.079724 seconds
+  Import took 0.109404 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.967573 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasData/Carta Assumindo relacionamento.asset
+  artifactKey: Guid(b367165b5f547da418a1c2ed412fd961) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasData/Carta Assumindo relacionamento.asset using Guid(b367165b5f547da418a1c2ed412fd961) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6079d399e12cdbcdf4fb81c4172bef0d') in 0.031524 seconds
+  Import took 0.046308 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.235525 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasData/Carta De Condolencias.asset
+  artifactKey: Guid(175cbc96113987940bb25d95af2fc301) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasData/Carta De Condolencias.asset using Guid(175cbc96113987940bb25d95af2fc301) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31841f8dbd6d2b39e245e1bf1bddb1a3') in 0.014774 seconds
+  Import took 0.050249 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.389044 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasData/Foto Do Delegado.asset
+  artifactKey: Guid(422b3132a145cdb4a831ef24ad9810b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasData/Foto Do Delegado.asset using Guid(422b3132a145cdb4a831ef24ad9810b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'feab0f9b05ebdcb8d35fe9b413d4ba1b') in 0.028117 seconds
+  Import took 0.046307 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.851089 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasData/Lista De Funcionarios.asset
+  artifactKey: Guid(c78a5dce28f7026499a8f294fb4a6694) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasData/Lista De Funcionarios.asset using Guid(c78a5dce28f7026499a8f294fb4a6694) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd203716c119c8fd2945b640374274008') in 0.014971 seconds
+  Import took 0.046356 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.501888 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasData/Lista De Mortos.asset
+  artifactKey: Guid(52f829f432f3a2f4d8ff26e830eea63e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasData/Lista De Mortos.asset using Guid(52f829f432f3a2f4d8ff26e830eea63e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d0d33fe87809f397a81cdb047e75967') in 0.011841 seconds
+  Import took 0.038819 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 916.056701 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasData/Policia.asset
+  artifactKey: Guid(a1d26686495c6c84ba74c04e75b75a14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasData/Policia.asset using Guid(a1d26686495c6c84ba74c04e75b75a14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dcfeb009901945807af827817a79ff61') in 0.023307 seconds
+  Import took 0.039294 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.696694 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasData/Publicar Materia.asset
+  artifactKey: Guid(dd0ff50a30a4b4945a24447c38d9fa7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasData/Publicar Materia.asset using Guid(dd0ff50a30a4b4945a24447c38d9fa7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8c4b6070cdabf684c2d409c475b217c') in 0.029060 seconds
+  Import took 0.056298 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 41.982818 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasData/Colar De Uniao.asset
+  artifactKey: Guid(a1d26686495c6c84ba74c04e75b75a14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasData/Colar De Uniao.asset using Guid(a1d26686495c6c84ba74c04e75b75a14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7931ade38d8e4ab6c649ed6e183e8315') in 0.011351 seconds
+  Import took 0.031479 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 385.630037 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasPrefabs/Prefab_ColarUniao.prefab
+  artifactKey: Guid(8173d8e1205b9f448894fe4b11da4dfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasPrefabs/Prefab_ColarUniao.prefab using Guid(8173d8e1205b9f448894fe4b11da4dfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca11e63c0bd9815f78a0dbf9fdd17fa3') in 0.064157 seconds
+  Import took 0.093190 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004470 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasPrefabs/Prefab_ColarUniao.prefab
+  artifactKey: Guid(8173d8e1205b9f448894fe4b11da4dfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasPrefabs/Prefab_ColarUniao.prefab using Guid(8173d8e1205b9f448894fe4b11da4dfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca11e63c0bd9815f78a0dbf9fdd17fa3') in 0.008948 seconds
+  Import took 0.016299 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.114501 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasPrefabs/Prefab_ListaDeMortos.prefab
+  artifactKey: Guid(40c7d0a38cd2e074b8a95c3e1c4e9cf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasPrefabs/Prefab_ListaDeMortos.prefab using Guid(40c7d0a38cd2e074b8a95c3e1c4e9cf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a703e4a312b87291a659d1f19518b7ad') in 0.014783 seconds
+  Import took 0.041167 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003616 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasPrefabs/Prefab_ListaDeMortos.prefab
+  artifactKey: Guid(40c7d0a38cd2e074b8a95c3e1c4e9cf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasPrefabs/Prefab_ListaDeMortos.prefab using Guid(40c7d0a38cd2e074b8a95c3e1c4e9cf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a703e4a312b87291a659d1f19518b7ad') in 0.010719 seconds
+  Import took 0.020133 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.592358 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasPrefabs/Prefab_ListaDeFuncionarios.prefab
+  artifactKey: Guid(845ccafa40f5c8848acf55da2fa98489) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasPrefabs/Prefab_ListaDeFuncionarios.prefab using Guid(845ccafa40f5c8848acf55da2fa98489) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '892559db3eb416ab3d2241ab172149a6') in 0.013822 seconds
+  Import took 0.027068 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000597 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasPrefabs/Prefab_ListaDeFuncionarios.prefab
+  artifactKey: Guid(845ccafa40f5c8848acf55da2fa98489) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasPrefabs/Prefab_ListaDeFuncionarios.prefab using Guid(845ccafa40f5c8848acf55da2fa98489) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '892559db3eb416ab3d2241ab172149a6') in 0.005979 seconds
+  Import took 0.012023 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 50.219577 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasData/Celular Do Marido.asset
+  artifactKey: Guid(52f829f432f3a2f4d8ff26e830eea63e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasData/Celular Do Marido.asset using Guid(52f829f432f3a2f4d8ff26e830eea63e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0db1eaaae291772efddac9c7db1d6acb') in 0.009793 seconds
+  Import took 0.022588 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000767 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasData/Celular Do Marido.asset
+  artifactKey: Guid(52f829f432f3a2f4d8ff26e830eea63e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasData/Celular Do Marido.asset using Guid(52f829f432f3a2f4d8ff26e830eea63e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0db1eaaae291772efddac9c7db1d6acb') in 0.004315 seconds
+  Import took 0.012345 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.720622 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasPrefabs/Prefab_CelularD Marido.prefab
+  artifactKey: Guid(40c7d0a38cd2e074b8a95c3e1c4e9cf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasPrefabs/Prefab_CelularD Marido.prefab using Guid(40c7d0a38cd2e074b8a95c3e1c4e9cf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49489ed134e4dd78e4eb87f82d994c68') in 0.017269 seconds
+  Import took 0.046633 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.018051 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasPrefabs/Prefab_CelularDoMarido.prefab
+  artifactKey: Guid(40c7d0a38cd2e074b8a95c3e1c4e9cf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasPrefabs/Prefab_CelularDoMarido.prefab using Guid(40c7d0a38cd2e074b8a95c3e1c4e9cf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3821b68246fe5fd5dec30fbcddd20c1') in 0.013693 seconds
+  Import took 0.038143 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.173749 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasPrefabs/Prefab_CartaCondolencia.prefab
+  artifactKey: Guid(965f863cd1db26f49bfdecd85ff9b68e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasPrefabs/Prefab_CartaCondolencia.prefab using Guid(965f863cd1db26f49bfdecd85ff9b68e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bef0f2836c21a0d0a3541a5448b5b00a') in 0.014644 seconds
+  Import took 0.048919 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.717900 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasData/Carta Assumindo relacionamento.asset
+  artifactKey: Guid(b367165b5f547da418a1c2ed412fd961) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasData/Carta Assumindo relacionamento.asset using Guid(b367165b5f547da418a1c2ed412fd961) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6b548f9238dd6e707886888292450b0') in 0.004270 seconds
+  Import took 0.022826 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.643289 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasData/Carta De Condolencias.asset
+  artifactKey: Guid(175cbc96113987940bb25d95af2fc301) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasData/Carta De Condolencias.asset using Guid(175cbc96113987940bb25d95af2fc301) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01872e1cfc2935bcbbac7dc9a2d290a3') in 0.004530 seconds
+  Import took 0.033240 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.553642 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasData/Celular Do Marido.asset
+  artifactKey: Guid(52f829f432f3a2f4d8ff26e830eea63e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasData/Celular Do Marido.asset using Guid(52f829f432f3a2f4d8ff26e830eea63e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21a00886047f10b4e78e8f2116f28592') in 0.004337 seconds
+  Import took 0.010727 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001598 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasData/Celular Do Marido.asset
+  artifactKey: Guid(52f829f432f3a2f4d8ff26e830eea63e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasData/Celular Do Marido.asset using Guid(52f829f432f3a2f4d8ff26e830eea63e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21a00886047f10b4e78e8f2116f28592') in 0.004627 seconds
+  Import took 0.009963 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 90.260298 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasData/Colar De Uniao.asset
+  artifactKey: Guid(a1d26686495c6c84ba74c04e75b75a14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasData/Colar De Uniao.asset using Guid(a1d26686495c6c84ba74c04e75b75a14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '501715a9588383af33a034227cbbd2df') in 0.005245 seconds
+  Import took 0.024065 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 32.152631 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasData/Foto Do Delegado.asset
+  artifactKey: Guid(422b3132a145cdb4a831ef24ad9810b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasData/Foto Do Delegado.asset using Guid(422b3132a145cdb4a831ef24ad9810b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a5f9316ac666068f1b6d01fe0048671') in 0.004506 seconds
+  Import took 0.033715 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.851059 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasData/Lista De Funcionarios.asset
+  artifactKey: Guid(c78a5dce28f7026499a8f294fb4a6694) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasData/Lista De Funcionarios.asset using Guid(c78a5dce28f7026499a8f294fb4a6694) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75cdf2de92c098a73f038d3163a46378') in 0.004401 seconds
+  Import took 0.011313 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001426 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasData/Lista De Funcionarios.asset
+  artifactKey: Guid(c78a5dce28f7026499a8f294fb4a6694) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasData/Lista De Funcionarios.asset using Guid(c78a5dce28f7026499a8f294fb4a6694) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75cdf2de92c098a73f038d3163a46378') in 0.005916 seconds
+  Import took 0.013219 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.164371 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasData/Rasura.asset
+  artifactKey: Guid(b816f9cff9e3457468eecd4da32845a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasData/Rasura.asset using Guid(b816f9cff9e3457468eecd4da32845a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '747bdd0214e7929dc472f1a9f80b9cfb') in 0.010814 seconds
+  Import took 0.017791 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.713950 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasPrefabs/Prefab_Rasura.prefab
+  artifactKey: Guid(41b809225769a6b4aa80f89523e33a1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasPrefabs/Prefab_Rasura.prefab using Guid(41b809225769a6b4aa80f89523e33a1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7aeff6c2a4b95624d142f5aad025c247') in 0.012385 seconds
+  Import took 0.037923 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.282674 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasPrefabs/Prefab_CaixaDeVeneno.prefab
+  artifactKey: Guid(41b809225769a6b4aa80f89523e33a1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasPrefabs/Prefab_CaixaDeVeneno.prefab using Guid(41b809225769a6b4aa80f89523e33a1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7be819acc1b6593c7e719391b90c029c') in 0.013382 seconds
+  Import took 0.026160 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008636 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasPrefabs/Prefab_CaixaDeVeneno.prefab
+  artifactKey: Guid(41b809225769a6b4aa80f89523e33a1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasPrefabs/Prefab_CaixaDeVeneno.prefab using Guid(41b809225769a6b4aa80f89523e33a1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7be819acc1b6593c7e719391b90c029c') in 0.013709 seconds
+  Import took 0.019457 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.665413 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasData/CaixaDeVeneno.asset
+  artifactKey: Guid(b816f9cff9e3457468eecd4da32845a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasData/CaixaDeVeneno.asset using Guid(b816f9cff9e3457468eecd4da32845a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06116562b8953ac9cdad880ff9658abd') in 0.010273 seconds
+  Import took 0.018859 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000733 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasData/CaixaDeVeneno.asset
+  artifactKey: Guid(b816f9cff9e3457468eecd4da32845a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasData/CaixaDeVeneno.asset using Guid(b816f9cff9e3457468eecd4da32845a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06116562b8953ac9cdad880ff9658abd') in 0.004363 seconds
+  Import took 0.009806 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 47.082600 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasData/CaixaDeVeneno.asset
+  artifactKey: Guid(b816f9cff9e3457468eecd4da32845a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasData/CaixaDeVeneno.asset using Guid(b816f9cff9e3457468eecd4da32845a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af932cb7866817011da8ce284c92d79e') in 0.005679 seconds
+  Import took 0.021427 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003334 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasData/CaixaDeVeneno.asset
+  artifactKey: Guid(b816f9cff9e3457468eecd4da32845a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasData/CaixaDeVeneno.asset using Guid(b816f9cff9e3457468eecd4da32845a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af932cb7866817011da8ce284c92d79e') in 0.005737 seconds
+  Import took 0.012562 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.399021 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasPrefabs/Prefab_BlocoDeNotas.prefab
+  artifactKey: Guid(04a36a7140cbc964e9d2b932077460ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasPrefabs/Prefab_BlocoDeNotas.prefab using Guid(04a36a7140cbc964e9d2b932077460ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7417f60eb27dec34d8ff7b7358c9b7b8') in 0.029774 seconds
+  Import took 0.036898 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001963 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasPrefabs/Prefab_BlocoDeNotas.prefab
+  artifactKey: Guid(04a36a7140cbc964e9d2b932077460ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasPrefabs/Prefab_BlocoDeNotas.prefab using Guid(04a36a7140cbc964e9d2b932077460ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7417f60eb27dec34d8ff7b7358c9b7b8') in 0.007881 seconds
+  Import took 0.015573 seconds .
+

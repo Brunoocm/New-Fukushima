@@ -3891,6 +3891,66 @@ PrefabInstance:
       propertyPath: mouseSensitivity
       value: 3
       objectReference: {fileID: 0}
+    - target: {fileID: 3600017945990292906, guid: 8688206ca2e22b4418e92aa99bcdd8b4, type: 3}
+      propertyPath: m_Alpha
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3600017945990292906, guid: 8688206ca2e22b4418e92aa99bcdd8b4, type: 3}
+      propertyPath: m_BlocksRaycasts
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3600017945990292918, guid: 8688206ca2e22b4418e92aa99bcdd8b4, type: 3}
+      propertyPath: m_RootOrder
+      value: 11
+      objectReference: {fileID: 0}
+    - target: {fileID: 3600017946126634846, guid: 8688206ca2e22b4418e92aa99bcdd8b4, type: 3}
+      propertyPath: m_Alpha
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3600017946126634846, guid: 8688206ca2e22b4418e92aa99bcdd8b4, type: 3}
+      propertyPath: m_BlocksRaycasts
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3600017946607399498, guid: 8688206ca2e22b4418e92aa99bcdd8b4, type: 3}
+      propertyPath: m_RootOrder
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 3600017946607399498, guid: 8688206ca2e22b4418e92aa99bcdd8b4, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3600017946607399498, guid: 8688206ca2e22b4418e92aa99bcdd8b4, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0.00005520657
+      objectReference: {fileID: 0}
+    - target: {fileID: 3600017946607399502, guid: 8688206ca2e22b4418e92aa99bcdd8b4, type: 3}
+      propertyPath: m_Alpha
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3600017946607399502, guid: 8688206ca2e22b4418e92aa99bcdd8b4, type: 3}
+      propertyPath: m_BlocksRaycasts
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3600017947090071284, guid: 8688206ca2e22b4418e92aa99bcdd8b4, type: 3}
+      propertyPath: currentPaper
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3600017947401939441, guid: 8688206ca2e22b4418e92aa99bcdd8b4, type: 3}
+      propertyPath: m_Alpha
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3600017947401939441, guid: 8688206ca2e22b4418e92aa99bcdd8b4, type: 3}
+      propertyPath: m_BlocksRaycasts
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3600017947401939453, guid: 8688206ca2e22b4418e92aa99bcdd8b4, type: 3}
+      propertyPath: m_RootOrder
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 3600017947401939453, guid: 8688206ca2e22b4418e92aa99bcdd8b4, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -0.000045776367
+      objectReference: {fileID: 0}
     - target: {fileID: 5586134125129951648, guid: 8688206ca2e22b4418e92aa99bcdd8b4, type: 3}
       propertyPath: m_RootOrder
       value: 0
