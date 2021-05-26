@@ -56,6 +56,7 @@ public class FirstPersonController : MonoBehaviour
     #region Movement Variables
 
     public bool playerCanMove = true;
+    public static bool turnCamera;
     public float walkSpeed = 5f;
     public float maxVelocityChange = 10f;
 
@@ -205,7 +206,7 @@ public class FirstPersonController : MonoBehaviour
         #region Camera
 
         // Control camera movement
-        if(cameraCanMove)
+        if(cameraCanMove && !Mouse.click && !turnCamera)
         {
             yaw = transform.localEulerAngles.y + Input.GetAxis("Mouse X") * mouseSensitivity;
 
@@ -370,6 +371,8 @@ public class FirstPersonController : MonoBehaviour
 
         if (playerCanMove)
         {
+            
+
             // Calculate how fast we should be moving
             Vector3 targetVelocity = new Vector3(Input.GetAxis("Horizontal"), 0, Input.GetAxis("Vertical"));
 
@@ -436,6 +439,10 @@ public class FirstPersonController : MonoBehaviour
 
                 rb.AddForce(velocityChange, ForceMode.VelocityChange);
             }
+        }
+        else
+        {
+
         }
 
         #endregion

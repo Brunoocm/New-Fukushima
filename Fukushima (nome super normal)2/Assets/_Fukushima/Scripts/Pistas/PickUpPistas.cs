@@ -93,8 +93,9 @@ public class PickUpPistas : InteractableBase
             originalRotation = clickedObject.transform.rotation.eulerAngles;
             clickedObject.transform.position = fixPos.transform.position;
 
-
             Time.timeScale = 0;
+
+            FirstPersonController.turnCamera = true;
 
             examineMode = true;
 
@@ -126,6 +127,8 @@ public class PickUpPistas : InteractableBase
             Time.timeScale = 1;
             clickedObject.transform.position = originaPosition;
             clickedObject.transform.eulerAngles = originalRotation;
+
+            FirstPersonController.turnCamera = false;
 
             examineMode = false;
         }

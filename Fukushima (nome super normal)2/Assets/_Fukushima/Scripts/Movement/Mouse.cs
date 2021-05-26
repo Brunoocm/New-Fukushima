@@ -8,7 +8,7 @@ public class Mouse : MonoBehaviour
     private float sensitivity;
     private float xRotation = 0f;
 
-    private bool click;
+    public static bool click;
 
     public Transform playerBody;
     public GameObject maoCaderno;

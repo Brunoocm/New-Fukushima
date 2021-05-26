@@ -15,11 +15,11 @@ D:/Unity/SuperNovoFukushima/Fukushima-GitHub/New-Fukushima/Fukushima (nome super
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-49683
+60595
 Successfully changed project path to: D:/Unity/SuperNovoFukushima/Fukushima-GitHub/New-Fukushima/Fukushima (nome super normal)2
 D:/Unity/SuperNovoFukushima/Fukushima-GitHub/New-Fukushima/Fukushima (nome super normal)2
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 74.62 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 70.20 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.2.6f1 (8a2143876886)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/Resources/UnitySubsystems
@@ -36,21 +36,1124 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56168
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56676
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.002808 seconds.
+Registered in 0.003075 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 77.97 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 74.34 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  3.366 seconds
+- Completed reload, in  1.817 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.001518 seconds.
+Registered in 0.002228 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 75.64 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.269 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.72 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2913 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.9 MB.
+System memory in use after: 145.0 MB.
+
+Unloading 97 unused Assets to reduce memory usage. Loaded Objects now: 3350.
+Total: 3.215200 ms (FindLiveObjects: 0.348200 ms CreateObjectMapping: 0.113700 ms MarkObjects: 2.520400 ms  DeleteObjects: 0.231400 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Modelos 3D/cama
+  artifactKey: Guid(86951b80e1fc4bf4391249568933d08b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Modelos 3D/cama using Guid(86951b80e1fc4bf4391249568933d08b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aac52af34f2df4803a8f6c736f2e01a0') in 0.021664 seconds
+  Import took 0.048826 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 26.218704 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/cama.fbx
+  artifactKey: Guid(502000d5e7ac0084cb97d324837fc3dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/cama.fbx using Guid(502000d5e7ac0084cb97d324837fc3dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52b46a906eda95371d5cffefc5813057') in 0.470255 seconds
+  Import took 0.502520 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.868845 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/cama.fbx
+  artifactKey: Guid(502000d5e7ac0084cb97d324837fc3dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/cama.fbx using Guid(502000d5e7ac0084cb97d324837fc3dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d1a2dc031a08d0111e6ce986b2dcfd8') in 0.109298 seconds
+  Import took 0.137152 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 38.325389 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/cama.fbx
+  artifactKey: Guid(502000d5e7ac0084cb97d324837fc3dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/cama.fbx using Guid(502000d5e7ac0084cb97d324837fc3dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc355cf1bea092bafc81f0b0f31c2374') in 0.104602 seconds
+  Import took 0.122262 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.634377 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/Texturas
+  artifactKey: Guid(cfb6598db35e5a44a896ebd845ea951a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/Texturas using Guid(cfb6598db35e5a44a896ebd845ea951a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '619d0ff857524b236752b881a297c2a4') in 0.009765 seconds
+  Import took 0.021740 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.207650 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/Post-it-20210522T194827Z-001
+  artifactKey: Guid(adbbcc5706755b74691205c251cabf8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/Post-it-20210522T194827Z-001 using Guid(adbbcc5706755b74691205c251cabf8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0669bf42a4d36549cacea56693162b1f') in 0.023101 seconds
+  Import took 0.045518 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.635941 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/cama
+  artifactKey: Guid(e127936d29a81614fa25c54ac70e9b5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/cama using Guid(e127936d29a81614fa25c54ac70e9b5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eae91201fe02d6931c046bf5f141b93a') in 0.002538 seconds
+  Import took 0.016445 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.867565 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/cama/cama.fbx
+  artifactKey: Guid(502000d5e7ac0084cb97d324837fc3dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/cama/cama.fbx using Guid(502000d5e7ac0084cb97d324837fc3dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ed99229abb48f61848a9709856e2df0') in 0.143403 seconds
+  Import took 0.149817 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.997130 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/cama/cama.fbx
+  artifactKey: Guid(502000d5e7ac0084cb97d324837fc3dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/cama/cama.fbx using Guid(502000d5e7ac0084cb97d324837fc3dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4079679891b566bcb13a77ba308079e4') in 0.088839 seconds
+  Import took 0.107247 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 80.237639 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/cama/cama.prefab
+  artifactKey: Guid(50343b2c6b458be4c99ca76c348f1656) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/cama/cama.prefab using Guid(50343b2c6b458be4c99ca76c348f1656) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1bf8f12648dc80e4937c606ed4fd4708') in 0.032206 seconds
+  Import took 0.050329 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.768193 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/cama/cama.fbx
+  artifactKey: Guid(502000d5e7ac0084cb97d324837fc3dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/cama/cama.fbx using Guid(502000d5e7ac0084cb97d324837fc3dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9180e2b75aee823329651c57ed68f060') in 0.082049 seconds
+  Import took 0.107926 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.829909 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/cama/cama.fbx
+  artifactKey: Guid(502000d5e7ac0084cb97d324837fc3dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/cama/cama.fbx using Guid(502000d5e7ac0084cb97d324837fc3dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d1a2a3c4a5467ff650dd11e75e99fc2') in 0.094576 seconds
+  Import took 0.100650 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001835 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.321 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.67 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2758 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 141.0 MB.
+System memory in use after: 141.2 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3433.
+Total: 3.486900 ms (FindLiveObjects: 0.353500 ms CreateObjectMapping: 0.094300 ms MarkObjects: 2.916400 ms  DeleteObjects: 0.121100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001855 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.65 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.032 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2758 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 141.0 MB.
+System memory in use after: 141.2 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3435.
+Total: 3.543900 ms (FindLiveObjects: 0.350800 ms CreateObjectMapping: 0.088700 ms MarkObjects: 2.980600 ms  DeleteObjects: 0.122200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 262.567208 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/Butsudan/Butsudan.prefab
+  artifactKey: Guid(b5fd3523d04a82545ad413f78dd23467) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/Butsudan/Butsudan.prefab using Guid(b5fd3523d04a82545ad413f78dd23467) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21a76eb36efbef21d402224b7a38fef3') in 0.204409 seconds
+  Import took 0.211128 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 262.151713 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/Ferramentas
+  artifactKey: Guid(6dd844f6a8967a54b8445e42ff8ef2d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/Ferramentas using Guid(6dd844f6a8967a54b8445e42ff8ef2d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ca4825135495a673d1aef47b80ecc5e') in 0.011031 seconds
+  Import took 0.032273 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 371.618370 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/Fichario e paginas-20210522T194822Z-001
+  artifactKey: Guid(a8569070913a24d4191b075c02ea9a94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/Fichario e paginas-20210522T194822Z-001 using Guid(a8569070913a24d4191b075c02ea9a94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '457652d73a4ea6a8d170a595fe7aabb5') in 0.022017 seconds
+  Import took 0.028477 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.799274 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/Fichario e paginas-20210522T194822Z-001/Fichario e paginas
+  artifactKey: Guid(6fdc94139d81ee742874580cb1978e58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/Fichario e paginas-20210522T194822Z-001/Fichario e paginas using Guid(6fdc94139d81ee742874580cb1978e58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '431061db3ef8c6e8497b31d52f6d5d9e') in 0.010292 seconds
+  Import took 0.016847 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.243202 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/Fichario e paginas-20210522T194822Z-001/Fichario e paginas/Ficha
+  artifactKey: Guid(e56d5917fba08c94f9bf07f793e34ac5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/Fichario e paginas-20210522T194822Z-001/Fichario e paginas/Ficha using Guid(e56d5917fba08c94f9bf07f793e34ac5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d28831900a31fdb5bb41c1a143a7a56') in 0.010246 seconds
+  Import took 0.018868 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.527527 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/Fichario e paginas-20210522T194822Z-001/Fichario e paginas/Ficha/Ficha tepco.fbx
+  artifactKey: Guid(ac377e4973ec22d46b32260bd88fe8d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/Fichario e paginas-20210522T194822Z-001/Fichario e paginas/Ficha/Ficha tepco.fbx using Guid(ac377e4973ec22d46b32260bd88fe8d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '226047efce16969dff3d591eefbfa1f2') in 0.125020 seconds
+  Import took 0.149948 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.120854 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/Fichario e paginas-20210522T194822Z-001/Fichario e paginas/Ficha/Ficha tepco.fbx
+  artifactKey: Guid(ac377e4973ec22d46b32260bd88fe8d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/Fichario e paginas-20210522T194822Z-001/Fichario e paginas/Ficha/Ficha tepco.fbx using Guid(ac377e4973ec22d46b32260bd88fe8d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '827fcc235b9df108fe311224d56d7268') in 0.118084 seconds
+  Import took 0.128992 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.813261 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/Fichario e paginas-20210522T194822Z-001/Fichario e paginas/Ficha/Ficha tepco.fbx
+  artifactKey: Guid(ac377e4973ec22d46b32260bd88fe8d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/Fichario e paginas-20210522T194822Z-001/Fichario e paginas/Ficha/Ficha tepco.fbx using Guid(ac377e4973ec22d46b32260bd88fe8d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62815f379b6b183290a899d55f43261d') in 0.082571 seconds
+  Import took 0.089288 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.642065 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/Fichario e paginas-20210522T194822Z-001/Fichario e paginas/Ficha/images.jpg
+  artifactKey: Guid(ea0f04e1d636a4645999237aa97d35d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/Fichario e paginas-20210522T194822Z-001/Fichario e paginas/Ficha/images.jpg using Guid(ea0f04e1d636a4645999237aa97d35d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae6a9c2f02f46939de94a0e63a95282e') in 0.040127 seconds
+  Import took 0.064863 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.669416 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/Fichario e paginas-20210522T194822Z-001/Fichario e paginas/Pagina 1.fbx
+  artifactKey: Guid(6b3fd10df83085141ad14c62c66cc86e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/Fichario e paginas-20210522T194822Z-001/Fichario e paginas/Pagina 1.fbx using Guid(6b3fd10df83085141ad14c62c66cc86e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d191b5da956ec65fc6ae2b45d0d2ebe') in 0.054143 seconds
+  Import took 0.069379 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.000902 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/Fichario e paginas-20210522T194822Z-001/Fichario e paginas/Pagina 2.fbx
+  artifactKey: Guid(668b6ff9a252b1940b4d26e79d297273) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/Fichario e paginas-20210522T194822Z-001/Fichario e paginas/Pagina 2.fbx using Guid(668b6ff9a252b1940b4d26e79d297273) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9bea9996a9e5a7f275d0b301bc1f97ca') in 0.036919 seconds
+  Import took 0.054496 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.256275 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/Fichario e paginas-20210522T194822Z-001/Fichario e paginas/Pagina 3.fbx
+  artifactKey: Guid(9ad08b33887bf5c46b36bb98adba2ac9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/Fichario e paginas-20210522T194822Z-001/Fichario e paginas/Pagina 3.fbx using Guid(9ad08b33887bf5c46b36bb98adba2ac9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c0693b51a318d8aaef1e00846970f93') in 0.036316 seconds
+  Import took 0.043076 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.906439 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/Fichario e paginas-20210522T194822Z-001/Fichario e paginas/Pagina 8.fbx
+  artifactKey: Guid(c752ecc9d7110e042a61ccc87ba8f141) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/Fichario e paginas-20210522T194822Z-001/Fichario e paginas/Pagina 8.fbx using Guid(c752ecc9d7110e042a61ccc87ba8f141) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c96328d83dd4a5cbdee42d0d11492985') in 0.056880 seconds
+  Import took 0.062756 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.663906 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/Fichario e paginas-20210522T194822Z-001/Fichario e paginas/TexturaPaginas
+  artifactKey: Guid(a15bcbea28b6de240b28893be62ebc6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/Fichario e paginas-20210522T194822Z-001/Fichario e paginas/TexturaPaginas using Guid(a15bcbea28b6de240b28893be62ebc6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb306e864f9d9bf9d74f5b5632fdedfa') in 0.009797 seconds
+  Import took 0.031745 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.127468 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/Fichario e paginas-20210522T194822Z-001/Fichario e paginas/Pagina 1.fbx
+  artifactKey: Guid(6b3fd10df83085141ad14c62c66cc86e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/Fichario e paginas-20210522T194822Z-001/Fichario e paginas/Pagina 1.fbx using Guid(6b3fd10df83085141ad14c62c66cc86e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bfa4037a58d6bcb154dcbdaedd100da4') in 0.039193 seconds
+  Import took 0.050644 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.741689 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/Fichario e paginas-20210522T194822Z-001/Fichario e paginas/Pagina 1.fbx
+  artifactKey: Guid(6b3fd10df83085141ad14c62c66cc86e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/Fichario e paginas-20210522T194822Z-001/Fichario e paginas/Pagina 1.fbx using Guid(6b3fd10df83085141ad14c62c66cc86e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '836005dcc15509efd91c13f44ee7238b') in 0.029144 seconds
+  Import took 0.044479 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.172408 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/Fichario e paginas-20210522T194822Z-001/Fichario e paginas/Pagina 2.fbx
+  artifactKey: Guid(668b6ff9a252b1940b4d26e79d297273) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/Fichario e paginas-20210522T194822Z-001/Fichario e paginas/Pagina 2.fbx using Guid(668b6ff9a252b1940b4d26e79d297273) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7275e51e66e573bbc1b3ef2b18e69b96') in 0.037955 seconds
+  Import took 0.058481 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.666704 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/Fichario e paginas-20210522T194822Z-001/Fichario e paginas/Pagina 4.fbx
+  artifactKey: Guid(d589eb2ff09f43a42b2625133a14234c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/Fichario e paginas-20210522T194822Z-001/Fichario e paginas/Pagina 4.fbx using Guid(d589eb2ff09f43a42b2625133a14234c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd40d49d64f127c07fab99feae4382b94') in 0.036165 seconds
+  Import took 0.061571 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.035389 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/Fichario e paginas-20210522T194822Z-001/Fichario e paginas/Pagina 2.fbx
+  artifactKey: Guid(668b6ff9a252b1940b4d26e79d297273) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/Fichario e paginas-20210522T194822Z-001/Fichario e paginas/Pagina 2.fbx using Guid(668b6ff9a252b1940b4d26e79d297273) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8355094f414fe3a15a31f555efe6d0df') in 0.026124 seconds
+  Import took 0.038306 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.677738 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/Fichario e paginas-20210522T194822Z-001/Fichario e paginas/Pagina 3.fbx
+  artifactKey: Guid(9ad08b33887bf5c46b36bb98adba2ac9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/Fichario e paginas-20210522T194822Z-001/Fichario e paginas/Pagina 3.fbx using Guid(9ad08b33887bf5c46b36bb98adba2ac9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f349654af2ba8b036cf7cfbd46ee7b9') in 0.038112 seconds
+  Import took 0.049806 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.238999 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/Fichario e paginas-20210522T194822Z-001/Fichario e paginas/Pagina 5.fbx
+  artifactKey: Guid(7ea15ccf03d5c13459988f0fb359ecf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/Fichario e paginas-20210522T194822Z-001/Fichario e paginas/Pagina 5.fbx using Guid(7ea15ccf03d5c13459988f0fb359ecf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c11627c61fc482038596e15373b62d8') in 0.035298 seconds
+  Import took 0.041685 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.097364 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/Fichario e paginas-20210522T194822Z-001/Fichario e paginas/Pagina 4.fbx
+  artifactKey: Guid(d589eb2ff09f43a42b2625133a14234c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/Fichario e paginas-20210522T194822Z-001/Fichario e paginas/Pagina 4.fbx using Guid(d589eb2ff09f43a42b2625133a14234c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5bc363353aaed3b7571247576898df9') in 0.041522 seconds
+  Import took 0.047128 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.494684 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/Fichario e paginas-20210522T194822Z-001/Fichario e paginas/Pagina 5.fbx
+  artifactKey: Guid(7ea15ccf03d5c13459988f0fb359ecf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/Fichario e paginas-20210522T194822Z-001/Fichario e paginas/Pagina 5.fbx using Guid(7ea15ccf03d5c13459988f0fb359ecf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4bf888ce258681bf52a90973652f6ca') in 0.040501 seconds
+  Import took 0.051074 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.604540 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/Fichario e paginas-20210522T194822Z-001/Fichario e paginas/Pagina 6.fbx
+  artifactKey: Guid(2aeb431c003ca5d4eb77943e740e1943) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/Fichario e paginas-20210522T194822Z-001/Fichario e paginas/Pagina 6.fbx using Guid(2aeb431c003ca5d4eb77943e740e1943) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f3a5a82125977c120295dd269fc14f5') in 0.033770 seconds
+  Import took 0.039477 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.123792 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/Fichario e paginas-20210522T194822Z-001/Fichario e paginas/Pagina 6.fbx
+  artifactKey: Guid(2aeb431c003ca5d4eb77943e740e1943) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/Fichario e paginas-20210522T194822Z-001/Fichario e paginas/Pagina 6.fbx using Guid(2aeb431c003ca5d4eb77943e740e1943) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d7e6e853e0e7876da06d52ba7187c6b') in 0.042235 seconds
+  Import took 0.081973 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.807707 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/Fichario e paginas-20210522T194822Z-001/Fichario e paginas/Pagina 7.fbx
+  artifactKey: Guid(3c006d2a4eccfc94e89fc61d877df6c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/Fichario e paginas-20210522T194822Z-001/Fichario e paginas/Pagina 7.fbx using Guid(3c006d2a4eccfc94e89fc61d877df6c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74f03a5aca9b28d9d4b2f5337a82a38b') in 0.036663 seconds
+  Import took 0.065557 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.376161 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/Fichario e paginas-20210522T194822Z-001/Fichario e paginas/Pagina 7.fbx
+  artifactKey: Guid(3c006d2a4eccfc94e89fc61d877df6c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/Fichario e paginas-20210522T194822Z-001/Fichario e paginas/Pagina 7.fbx using Guid(3c006d2a4eccfc94e89fc61d877df6c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0f95cec3c64178aa1dee2de6a865b53') in 0.044328 seconds
+  Import took 0.050717 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.174734 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/Fichario e paginas-20210522T194822Z-001/Fichario e paginas/Pagina 8.fbx
+  artifactKey: Guid(c752ecc9d7110e042a61ccc87ba8f141) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/Fichario e paginas-20210522T194822Z-001/Fichario e paginas/Pagina 8.fbx using Guid(c752ecc9d7110e042a61ccc87ba8f141) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4bbd117f724eacb0a93e18e85c8d459') in 0.045249 seconds
+  Import took 0.051778 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 42.478785 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/Fichario e paginas-20210522T194822Z-001/Fichario e paginas/Pagina 1.fbx
+  artifactKey: Guid(6b3fd10df83085141ad14c62c66cc86e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/Fichario e paginas-20210522T194822Z-001/Fichario e paginas/Pagina 1.fbx using Guid(6b3fd10df83085141ad14c62c66cc86e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34b1fb80c0398dc73f5f7eaf0ba41b65') in 0.027911 seconds
+  Import took 0.042913 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 145.972134 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/Fichario e paginas-20210522T194822Z-001/Fichario e paginas/Pagina 2.fbx
+  artifactKey: Guid(668b6ff9a252b1940b4d26e79d297273) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/Fichario e paginas-20210522T194822Z-001/Fichario e paginas/Pagina 2.fbx using Guid(668b6ff9a252b1940b4d26e79d297273) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '448ba8b8dd6eadfd48fab05b1ddcc65f') in 0.028902 seconds
+  Import took 0.036446 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.339552 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/Fichario e paginas-20210522T194822Z-001/Fichario e paginas/Ficha/Ficha tepco.fbx
+  artifactKey: Guid(ac377e4973ec22d46b32260bd88fe8d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Objetos/Fichario e paginas-20210522T194822Z-001/Fichario e paginas/Ficha/Ficha tepco.fbx using Guid(ac377e4973ec22d46b32260bd88fe8d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd582b3dbd5bce41ddbed2b573b6f332') in 0.091139 seconds
+  Import took 0.111029 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 218.993064 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/ObjetosPistas/Fichario e paginas-20210522T194822Z-001/Fichario e paginas/Ficha/Ficha tepco.prefab
+  artifactKey: Guid(6b648b4bd33c3d049918b3831286e654) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/ObjetosPistas/Fichario e paginas-20210522T194822Z-001/Fichario e paginas/Ficha/Ficha tepco.prefab using Guid(6b648b4bd33c3d049918b3831286e654) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f31676784682edf16f7152fa8460ec5') in 0.045153 seconds
+  Import took 0.053466 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 112.946159 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/ObjetosPistas/Fichario e paginas-20210522T194822Z-001/Fichario e paginas/Ficha/TepcoFichario.prefab
+  artifactKey: Guid(2733de47cc40c19478f79acb91528165) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/ObjetosPistas/Fichario e paginas-20210522T194822Z-001/Fichario e paginas/Ficha/TepcoFichario.prefab using Guid(2733de47cc40c19478f79acb91528165) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6b1fd8f70928d611d3392364eb7bf96') in 0.032966 seconds
+  Import took 0.039828 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002072 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.02 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.459 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.10 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2758 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 141.2 MB.
+System memory in use after: 141.4 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3475.
+Total: 6.862100 ms (FindLiveObjects: 0.939000 ms CreateObjectMapping: 0.460400 ms MarkObjects: 5.321200 ms  DeleteObjects: 0.138300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 311.865900 seconds.
+  path: Assets/_Fukushima/Scripts/InventorySystem/ItemData/Key.asset
+  artifactKey: Guid(a956062cee2117e479ece81611af24d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/InventorySystem/ItemData/Key.asset using Guid(a956062cee2117e479ece81611af24d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d6b3f6e197ba1e9321b8fe9dcfad6af') in 0.087945 seconds
+  Import took 0.094619 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001419 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.69 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.189 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.83 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2758 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 141.3 MB.
+System memory in use after: 141.5 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3477.
+Total: 5.732000 ms (FindLiveObjects: 0.975400 ms CreateObjectMapping: 0.621000 ms MarkObjects: 4.004700 ms  DeleteObjects: 0.129300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001635 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.47 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.192 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.14 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2758 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 141.3 MB.
+System memory in use after: 141.5 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3479.
+Total: 5.440700 ms (FindLiveObjects: 0.613400 ms CreateObjectMapping: 0.528000 ms MarkObjects: 4.170500 ms  DeleteObjects: 0.126800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001898 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.267 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.77 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2758 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 141.3 MB.
+System memory in use after: 141.5 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3481.
+Total: 4.175200 ms (FindLiveObjects: 0.380400 ms CreateObjectMapping: 0.141900 ms MarkObjects: 3.525100 ms  DeleteObjects: 0.125800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001673 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.56 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.209 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.71 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2758 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 141.3 MB.
+System memory in use after: 141.5 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3483.
+Total: 8.162800 ms (FindLiveObjects: 0.876400 ms CreateObjectMapping: 0.437300 ms MarkObjects: 6.601800 ms  DeleteObjects: 0.244700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1350.067317 seconds.
+  path: Assets/ModularFirstPersonController/FirstPersonController/FirstPersonController.cs
+  artifactKey: Guid(d90ba6530d9bfda47abb4610956b2f44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ModularFirstPersonController/FirstPersonController/FirstPersonController.cs using Guid(d90ba6530d9bfda47abb4610956b2f44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3adc05bd8af6d87f3e213b1d1c60aadb') in 0.046869 seconds
+  Import took 0.053071 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002193 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.68 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.135 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.79 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2758 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 141.3 MB.
+System memory in use after: 141.5 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3485.
+Total: 5.454600 ms (FindLiveObjects: 0.386200 ms CreateObjectMapping: 0.097600 ms MarkObjects: 4.803500 ms  DeleteObjects: 0.165500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 410.303419 seconds.
+  path: Assets/ModularFirstPersonController/FirstPersonController/FirstPersonController.cs
+  artifactKey: Guid(d90ba6530d9bfda47abb4610956b2f44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ModularFirstPersonController/FirstPersonController/FirstPersonController.cs using Guid(d90ba6530d9bfda47abb4610956b2f44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e9e9eebe0715d7a3e4956088b8bbb40') in 0.011220 seconds
+  Import took 0.019824 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002740 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.43 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.581 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.74 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2758 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 141.3 MB.
+System memory in use after: 141.5 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3487.
+Total: 6.104300 ms (FindLiveObjects: 0.408800 ms CreateObjectMapping: 0.145400 ms MarkObjects: 5.391700 ms  DeleteObjects: 0.156200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002793 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.122 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2758 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 141.3 MB.
+System memory in use after: 141.6 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3489.
+Total: 4.474800 ms (FindLiveObjects: 0.580600 ms CreateObjectMapping: 0.432700 ms MarkObjects: 3.343400 ms  DeleteObjects: 0.116000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.295098 seconds.
+  path: Assets/ModularFirstPersonController/FirstPersonController/FirstPersonController.cs
+  artifactKey: Guid(d90ba6530d9bfda47abb4610956b2f44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ModularFirstPersonController/FirstPersonController/FirstPersonController.cs using Guid(d90ba6530d9bfda47abb4610956b2f44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9cc0030ae706adb1484f7407fc6110d8') in 0.009166 seconds
+  Import took 0.037278 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001782 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.70 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.224 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.72 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2758 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 141.4 MB.
+System memory in use after: 141.6 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3491.
+Total: 4.295300 ms (FindLiveObjects: 0.393700 ms CreateObjectMapping: 0.133000 ms MarkObjects: 3.644000 ms  DeleteObjects: 0.122900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002527 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.95 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.225 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2758 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 141.4 MB.
+System memory in use after: 141.6 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3493.
+Total: 6.713400 ms (FindLiveObjects: 1.126000 ms CreateObjectMapping: 0.551800 ms MarkObjects: 4.852400 ms  DeleteObjects: 0.180000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002593 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.81 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.081 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.73 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2758 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 141.5 MB.
+System memory in use after: 141.7 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3495.
+Total: 4.787400 ms (FindLiveObjects: 0.552700 ms CreateObjectMapping: 0.337400 ms MarkObjects: 3.741200 ms  DeleteObjects: 0.153900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001982 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.13 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.282 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.72 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2758 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 141.5 MB.
+System memory in use after: 141.7 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3497.
+Total: 4.594400 ms (FindLiveObjects: 0.528000 ms CreateObjectMapping: 0.234300 ms MarkObjects: 3.699000 ms  DeleteObjects: 0.131200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003019 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.79 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.063 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.67 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2758 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 141.5 MB.
+System memory in use after: 141.7 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3499.
+Total: 4.599100 ms (FindLiveObjects: 0.407700 ms CreateObjectMapping: 0.130400 ms MarkObjects: 3.932500 ms  DeleteObjects: 0.127400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002097 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.67 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.179 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.68 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2758 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 141.5 MB.
+System memory in use after: 141.7 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3501.
+Total: 4.771800 ms (FindLiveObjects: 0.952500 ms CreateObjectMapping: 0.382100 ms MarkObjects: 3.314400 ms  DeleteObjects: 0.120000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001780 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.97 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.179 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.10 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2758 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 141.5 MB.
+System memory in use after: 141.7 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3503.
+Total: 5.558700 ms (FindLiveObjects: 0.513800 ms CreateObjectMapping: 0.244000 ms MarkObjects: 4.642700 ms  DeleteObjects: 0.155700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001525 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.82 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.144 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.60 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2758 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 141.5 MB.
+System memory in use after: 141.7 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3505.
+Total: 6.025800 ms (FindLiveObjects: 0.763800 ms CreateObjectMapping: 0.250900 ms MarkObjects: 4.847300 ms  DeleteObjects: 0.159600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001529 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.82 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.194 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2758 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 141.5 MB.
+System memory in use after: 141.7 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3507.
+Total: 24.565600 ms (FindLiveObjects: 1.708700 ms CreateObjectMapping: 0.959700 ms MarkObjects: 21.693700 ms  DeleteObjects: 0.200800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001719 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.95 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[E:/Anhembi/Inter/Fukushima-GitHub/Fukushima (nome super normal)/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.101 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.67 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2758 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 141.5 MB.
+System memory in use after: 141.7 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3509.
+Total: 3.896300 ms (FindLiveObjects: 0.467800 ms CreateObjectMapping: 0.134300 ms MarkObjects: 3.174300 ms  DeleteObjects: 0.118100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1208.953358 seconds.
+  path: Assets/_Fukushima/Scripts/Pistas/PistasData/Colar De Uniao.asset
+  artifactKey: Guid(a1d26686495c6c84ba74c04e75b75a14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Scripts/Pistas/PistasData/Colar De Uniao.asset using Guid(a1d26686495c6c84ba74c04e75b75a14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eac9c9964e47419e2d53cc911b2a9187') in 0.069536 seconds
+  Import took 0.075893 seconds .
+
