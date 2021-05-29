@@ -113,9 +113,29 @@ public class PickUpPistas : InteractableBase
             float yAxis = Input.GetAxis("Mouse Y") * rotationSpeed;
 
             clickedObject.transform.Rotate(Vector3.up, -xAxis, Space.World);
-            clickedObject.transform.Rotate(Vector3.right, yAxis, Space.World);
+            clickedObject.transform.Rotate(Vector3.forward, yAxis, Space.World);
 
             UIText.ResetUI();
+        }
+
+        if (examineMode)
+        {
+            float scroll = 0.02f;
+
+            if (Input.GetAxisRaw("Mouse ScrollWheel") > 0 && fixPos.transform.localPosition.z <= 0.6f)
+            {
+
+                clickedObject.transform.position = fixPos.transform.position;
+                fixPos.transform.Translate(0, 0, scroll);
+                UIText.ResetUI();
+            }
+            if (Input.GetAxisRaw("Mouse ScrollWheel") < 0 && fixPos.transform.localPosition.z >= 0.15f)
+            {
+
+                clickedObject.transform.position = fixPos.transform.position;
+                fixPos.transform.Translate(0, 0, -scroll);
+                UIText.ResetUI();
+            }
         }
 
     }
