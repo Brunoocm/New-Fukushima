@@ -1532,6 +1532,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4005183212526112570}
+  - component: {fileID: 2649602437665528045}
   m_Layer: 0
   m_Name: Folding_Chair_Combined_low_1
   m_TagString: Untagged
@@ -1558,6 +1559,19 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 54.084, z: 0}
+--- !u!65 &2649602437665528045
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4386106114539410816}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.7834046, y: 0.8920319, z: 1.3943992}
+  m_Center: {x: 0.10829752, y: 0.43117547, z: -0.19719942}
 --- !u!1 &4420836060442815311
 GameObject:
   m_ObjectHideFlags: 0

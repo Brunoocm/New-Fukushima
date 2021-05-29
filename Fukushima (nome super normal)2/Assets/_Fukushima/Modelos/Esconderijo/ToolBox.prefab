@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 3204769098961856391}
   - component: {fileID: 2005925998407329826}
   - component: {fileID: 4337683703898234088}
+  - component: {fileID: 520810089504075099}
   m_Layer: 0
   m_Name: ToolBox
   m_TagString: Untagged
@@ -81,3 +82,16 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &520810089504075099
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2824443235705126205}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.66869336, y: 0.24228922, z: 0.26680306}
+  m_Center: {x: 0.0000019073486, y: 0.000000007450581, z: -2.1175824e-22}
