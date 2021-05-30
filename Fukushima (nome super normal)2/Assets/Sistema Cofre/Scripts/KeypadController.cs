@@ -5,15 +5,15 @@ using UnityEngine.UI;
 
 public class KeypadController : MonoBehaviour
 {
-    public DoorController door;
+    public Animator anim;
     public string password;
     public int passwordLimit;
     public Text passwordText;
 
-    [Header("Audio")]
-    public AudioSource audioSource;
-    public AudioClip correctSound;
-    public AudioClip wrongSound;
+    //[Header("Audio")]
+    //public AudioSource audioSource;
+    //public AudioClip correctSound;
+    //public AudioClip wrongSound;
 
     private void Start()
     {
@@ -50,18 +50,20 @@ public class KeypadController : MonoBehaviour
     {
         if (passwordText.text == password)
         {
-            door.lockedByPassword = false;
+            anim.SetTrigger("abrir"); 
 
-            if (audioSource != null)
-                audioSource.PlayOneShot(correctSound);
+            //door.lockedByPassword = false;
+
+            //if (audioSource != null)
+            //    audioSource.PlayOneShot(correctSound);
 
             passwordText.color = Color.green;
             StartCoroutine(waitAndClear());
         }
         else
         {
-            if (audioSource != null)
-                audioSource.PlayOneShot(wrongSound);
+            //if (audioSource != null)
+            //    audioSource.PlayOneShot(wrongSound);
 
             passwordText.color = Color.red;
             StartCoroutine(waitAndClear());
