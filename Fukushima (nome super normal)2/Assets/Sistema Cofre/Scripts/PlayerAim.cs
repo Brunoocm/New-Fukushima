@@ -4,6 +4,7 @@ using UnityEngine.UI;
 public class PlayerAim : MonoBehaviour
 {
     public Transform headPos;
+    public FerramentasInteractor interactor;
 
     private void Update()
     {
@@ -24,6 +25,12 @@ public class PlayerAim : MonoBehaviour
                     else if(hit.transform.name=="DoorMesh")
                     {
                         hit.transform.GetComponent<DoorController>().OpenClose();
+                    }
+
+                    if(hit.transform.GetComponent<Ferramenta>() != null)
+                    {
+                        interactor.InterageFerramenta(hit.transform.GetComponent<Ferramenta>());
+                        Debug.Log("Ferramenta ID: " + hit.transform.GetComponent<Ferramenta>().ID);
                     }
                 }
             }
