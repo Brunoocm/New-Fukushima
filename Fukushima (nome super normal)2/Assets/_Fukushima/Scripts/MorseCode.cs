@@ -51,6 +51,7 @@ public class MorseCode : MonoBehaviour
             {
                 if (i == textInMorse.Length - 1)
                 {
+                    print("repete");
                     i = 0;
                 }
             }
