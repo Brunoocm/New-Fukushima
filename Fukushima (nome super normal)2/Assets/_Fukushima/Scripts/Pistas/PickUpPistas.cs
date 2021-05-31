@@ -21,6 +21,7 @@ public class PickUpPistas : InteractableBase
     private bool examineMode = false;
     private bool umaVez;
     private PistasSpawn pistaScript;
+    private PistasController pistasController;
 
     Vector3 originaPosition;
     Vector3 originalRotation;
@@ -37,6 +38,7 @@ public class PickUpPistas : InteractableBase
     private void Start()
     {
         pistaScript = FindObjectOfType<PistasSpawn>();
+        pistasController = FindObjectOfType<PistasController>();
         FundoText = GameObject.Find("TextForPistas").GetComponentInChildren<Image>();
         TextForPistas = GameObject.Find("TextForPistas").GetComponentInChildren<TextMeshProUGUI>();
 
@@ -78,6 +80,7 @@ public class PickUpPistas : InteractableBase
 
                 m_MyEvent.Invoke();
             }
+            pistasController.PistaColetada(prefabPistas);
             umaVez = true;
         }
     }

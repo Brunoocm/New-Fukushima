@@ -1,4 +1,4 @@
-using System.Collections;
+    using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
@@ -16,7 +16,8 @@ public class MainPistas : MonoBehaviour
     [SerializeField] private  GameObject[] escritorioMarido;
     [SerializeField] private  GameObject[] casa;
 
-    static bool mainEscritorioMarido, mainEscritorioDelegado, mainQuartel, mainCasa;
+    [HideInInspector] public bool mainEscritorioMarido, mainEscritorioDelegado, mainQuartel, mainCasa;
+
     void Update()
     {
         Lugares();
