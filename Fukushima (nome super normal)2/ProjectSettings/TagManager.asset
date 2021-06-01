@@ -9,6 +9,8 @@ TagManager:
   - Lampada
   - PistasPivotSpawn
   - Blocos
+  - SlotBloco
+  - ParedeBlocos
   layers:
   - Default
   - TransparentFX

@@ -1,15 +1,30 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.EventSystems;
 
 public class MoveBlocos : MonoBehaviour
 {
-
+    public int numBloco;
+    public int currentSlot;
+    public bool hasCorrect;
+    public bool isCorrect;
 
     private float mZCoord;
-    private bool collides;
+    private bool drag;
+    private bool move;
 
-    private Vector3 mOffset;
+    Vector3 mOffset;
+    Vector3 currentPos;
+
+    private void Update()
+    {
+        if(hasCorrect && numBloco == currentSlot)
+        {
+            isCorrect = true;
+        }
+    }
+
     void OnMouseDown()
     {
 
@@ -17,7 +32,11 @@ public class MoveBlocos : MonoBehaviour
 
         mOffset = gameObject.transform.position - GetMouseAsWorldPoint();
 
+        currentPos = new Vector3(GetMouseAsWorldPoint().x + mOffset.x, GetMouseAsWorldPoint().y + mOffset.y, transform.position.z);
+        move = true;
+
     }
+
 
 
 
@@ -36,12 +55,29 @@ public class MoveBlocos : MonoBehaviour
 
     void OnMouseDrag()
     {
-        if (!collides)
-        {
-            transform.position = new Vector3(GetMouseAsWorldPoint().x + mOffset.x, GetMouseAsWorldPoint().y + mOffset.y, transform.position.z);
-        }
+        
+        if(move)transform.position = new Vector3(GetMouseAsWorldPoint().x + mOffset.x, GetMouseAsWorldPoint().y + mOffset.y, transform.position.z);
+        drag = true;
+
     }
 
-   
+    private void OnMouseUpAsButton()
+    {
+        drag = false;
+    }
+
+    private void OnTriggerEnter(Collider other)
+    {
+        if(other.gameObject.CompareTag("Blocos"))
+        {
+            print("foi");
+            if (drag)
+            {
+                drag = false;
+                move = false;
+                transform.position = currentPos;
+            }
+        }
+    }
 
 }
