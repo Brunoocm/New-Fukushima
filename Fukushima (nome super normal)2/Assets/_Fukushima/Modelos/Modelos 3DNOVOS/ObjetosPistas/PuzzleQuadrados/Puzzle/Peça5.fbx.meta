@@ -8,32 +8,32 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Material.010
-    second: {fileID: 2100000, guid: 6471571f718dc1f419843e2a4e8b588a, type: 2}
+    second: {fileID: 2100000, guid: f87e738594466f84db69033451cd608c, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Material.026
-    second: {fileID: 2100000, guid: 8da22511fc770204b8d47a9542129b17, type: 2}
+    second: {fileID: 2100000, guid: ab6b579415debd84586fbc5865a9bd71, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Material.027
-    second: {fileID: 2100000, guid: 2271daa3791e49c4aa89683f3a17a81e, type: 2}
+    second: {fileID: 2100000, guid: 3e031ecaf83e99d4fb8e0b91520a5bd2, type: 2}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: Aqui3
-    second: {fileID: 2800000, guid: afd508a97c6963e458bae900344b1d0e, type: 3}
+    second: {fileID: 2800000, guid: 2590316215101d349b703e9c89b9540a, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: black2
-    second: {fileID: 2800000, guid: a93abb4ec44c05645a4b1dfb8bfda586, type: 3}
+    second: {fileID: 2800000, guid: 8250888b5d9e73949bd957986e3ee377, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: k-wood-footrest-light-wood-chrome-528989
-    second: {fileID: 2800000, guid: 6d692dfadece58248b1c074d60a88b71, type: 3}
+    second: {fileID: 2800000, guid: d11410639fc32a842b71be2515b29a0b, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0
