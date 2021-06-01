@@ -34,6 +34,7 @@ public class PickUpPistas : InteractableBase
     TextMeshProUGUI TextForPistas;
 
     [SerializeField] UnityEvent m_MyEvent;
+    [SerializeField] UnityEvent m_EventLoop;
 
     private void Start()
     {
@@ -91,6 +92,8 @@ public class PickUpPistas : InteractableBase
     {
         if (!examineMode)
         {
+            m_EventLoop.Invoke();
+
             clickedObject = transform.gameObject;
             originaPosition = clickedObject.transform.position;
             originalRotation = clickedObject.transform.rotation.eulerAngles;
@@ -148,6 +151,7 @@ public class PickUpPistas : InteractableBase
         if (Input.GetKeyDown(KeyCode.E) && examineMode)
         {
             Time.timeScale = 1;
+
             clickedObject.transform.position = originaPosition;
             clickedObject.transform.eulerAngles = originalRotation;
 
