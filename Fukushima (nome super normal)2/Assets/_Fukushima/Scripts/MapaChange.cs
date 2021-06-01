@@ -9,17 +9,20 @@ public class MapaChange : MonoBehaviour, IPointerDownHandler
     public Transform posQuarto;
     public Transform posEscritorio;
     public Transform posDelegacia;
+    public Transform posEsconderijo;
     
     [SerializeField] GameObject quartoButton;
     [SerializeField] GameObject escritorioButton;
     [SerializeField] GameObject DelegadoButton;
+    [SerializeField] GameObject EsconderijoButton;
 
-    [SerializeField] GameObject quarto;
-    [SerializeField] GameObject escritorio;
-    [SerializeField] GameObject Delegado;
+    //[SerializeField] GameObject quarto;
+    //[SerializeField] GameObject escritorio;
+    //[SerializeField] GameObject Delegado;
 
     public ItemObject chave;
     public static bool delegaciaEnabled;
+    public static bool esconderijoEnabled;
 
     private bool selected;
     private string localName;
@@ -56,34 +59,19 @@ public class MapaChange : MonoBehaviour, IPointerDownHandler
 
     public void Casa()
     {
-        //quarto.SetActive(true);
-        //escritorio.SetActive(false);
-        //Delegado.SetActive(false);
-
         player.transform.position = posQuarto.transform.position;
-
-
     }
     public void Delegacia()
     {
-        //quarto.SetActive(false);
-        //Delegado.SetActive(true);
-        //escritorio.SetActive(false);
-
         player.transform.position = posDelegacia.transform.position;
-
-
-
     }
     public void Escritorio()
     {
-        //quarto.SetActive(false);
-        //Delegado.SetActive(false);
-        //escritorio.SetActive(true);
-
         player.transform.position = posEscritorio.transform.position;
-
-
+    }
+    public void Esconderijo()
+    {
+        player.transform.position = posEsconderijo.transform.position;
     }
 
     public void setTrueDelegado()
@@ -97,6 +85,7 @@ public class MapaChange : MonoBehaviour, IPointerDownHandler
         if (localName == "Escritorio") Escritorio();
         if (localName == "Casa") Casa();
         if (localName == "Delegacia") Delegacia();
+        if (localName == "Esconderijo") Esconderijo();
         else
         {
 
