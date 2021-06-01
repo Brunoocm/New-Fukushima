@@ -31,13 +31,14 @@ public class Mouse : MonoBehaviour
     void ChangeCursor()
     {
        
-        if(Input.GetKeyDown(KeyCode.Tab))
+        if(Input.GetKeyDown(KeyCode.Tab) && !PauseMenu.paused)
         {
             click = !click;
+            if (click) Cursor.lockState = CursorLockMode.Confined;
+            if (!click) Cursor.lockState = CursorLockMode.Locked;
+
         }
 
-        if (click) Cursor.lockState = CursorLockMode.Confined; 
-        if (!click) Cursor.lockState = CursorLockMode.Locked; 
 
     }
 

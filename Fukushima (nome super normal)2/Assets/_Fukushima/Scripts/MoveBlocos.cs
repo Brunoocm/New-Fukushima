@@ -68,7 +68,7 @@ public class MoveBlocos : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        if(other.gameObject.CompareTag("Blocos"))
+        if(other.gameObject.CompareTag("Blocos") || other.gameObject.CompareTag("ParedeBlocos"))
         {
             print("foi");
             if (drag)
