@@ -5,13 +5,18 @@ using UnityEngine.SceneManagement;
 public class PauseMenu : MonoBehaviour
 {
     public static bool paused;
+    public GameObject player;
 
     public GameObject thisGameobject;
-    void Start()
+
+    private Lanterna lanternaScript;
+
+    private void Awake()
     {
+        lanternaScript = player.GetComponent<Lanterna>();
     }
 
-    void Update()
+    private void Update()
     {
         if (Input.GetKeyDown(KeyCode.Escape) && !paused)
         {
@@ -22,18 +27,21 @@ public class PauseMenu : MonoBehaviour
             Resume();
         }
     }
-    void PauseMenuVoid()
+    private void PauseMenuVoid()
     {
         Time.timeScale = 0;
         thisGameobject.SetActive(true);
         Cursor.lockState = CursorLockMode.Confined;
         paused = true;
+        lanternaScript.ligaDesligaHUD();
     }
+
     public void Resume()
     {
         Time.timeScale = 1;
         thisGameobject.SetActive(false);
         Cursor.lockState = CursorLockMode.Locked;
         paused = false;
+        lanternaScript.ligaDesligaHUD();
     }
 }
