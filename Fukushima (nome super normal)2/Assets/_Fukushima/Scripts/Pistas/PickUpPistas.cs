@@ -145,7 +145,7 @@ public class PickUpPistas : InteractableBase
 
     void ExitExamineMode()
     {
-        if (Input.GetMouseButtonDown(1) && examineMode)
+        if (Input.GetKeyDown(KeyCode.E) && examineMode)
         {
             Time.timeScale = 1;
             clickedObject.transform.position = originaPosition;
