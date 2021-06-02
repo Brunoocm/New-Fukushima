@@ -19,6 +19,6 @@ MonoBehaviour:
     Carta enviada pelo delegado.'
   objectImage: {fileID: 21300000, guid: e8596de2f1045824992e741de303fd72, type: 3}
   acontecendo: 0
-  motivo: 0
-  assassino: 1
+  motivo: 1
+  assassino: 0
   quartel: 0
