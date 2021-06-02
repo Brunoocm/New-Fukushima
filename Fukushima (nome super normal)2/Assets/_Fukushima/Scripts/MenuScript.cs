@@ -32,5 +32,16 @@ public class MenuScript : MonoBehaviour
         }
     }
 
+    public void Assets()
+    {
+
+        Application.OpenURL("https://docs.google.com/document/d/175osTysu2XbmJGgF7VHd8PMk7bBlyHlxIdmhDVVcm1M/edit");
+    }
+
+    public void Sair()
+    {
+        Application.Quit();
+    }
+
  
 }
