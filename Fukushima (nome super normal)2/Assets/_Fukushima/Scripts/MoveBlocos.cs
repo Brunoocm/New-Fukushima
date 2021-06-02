@@ -14,6 +14,8 @@ public class MoveBlocos : MonoBehaviour
     private bool drag;
     private bool move;
 
+    public static bool cantMove;
+
     Vector3 mOffset;
     Vector3 currentPos;
 
@@ -28,12 +30,15 @@ public class MoveBlocos : MonoBehaviour
     void OnMouseDown()
     {
 
-        mZCoord = Camera.main.WorldToScreenPoint(gameObject.transform.position).z;
+        if (!cantMove)
+        {
+            mZCoord = Camera.main.WorldToScreenPoint(gameObject.transform.position).z;
 
-        mOffset = gameObject.transform.position - GetMouseAsWorldPoint();
+            mOffset = gameObject.transform.position - GetMouseAsWorldPoint();
 
-        currentPos = new Vector3(GetMouseAsWorldPoint().x + mOffset.x, GetMouseAsWorldPoint().y + mOffset.y, transform.position.z);
-        move = true;
+            currentPos = new Vector3(GetMouseAsWorldPoint().x + mOffset.x, GetMouseAsWorldPoint().y + mOffset.y, transform.position.z);
+            move = true;
+        }
 
     }
 
@@ -55,9 +60,11 @@ public class MoveBlocos : MonoBehaviour
 
     void OnMouseDrag()
     {
-        
-        if(move)transform.position = new Vector3(GetMouseAsWorldPoint().x + mOffset.x, GetMouseAsWorldPoint().y + mOffset.y, transform.position.z);
-        drag = true;
+        if (!cantMove)
+        {
+            if (move) transform.position = new Vector3(GetMouseAsWorldPoint().x + mOffset.x, GetMouseAsWorldPoint().y + mOffset.y, transform.position.z);
+            drag = true;
+        }
 
     }
 
@@ -68,14 +75,17 @@ public class MoveBlocos : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        if(other.gameObject.CompareTag("Blocos") || other.gameObject.CompareTag("ParedeBlocos"))
+        if (!cantMove)
         {
-            print("foi");
-            if (drag)
+            if (other.gameObject.CompareTag("Blocos") || other.gameObject.CompareTag("ParedeBlocos"))
             {
-                drag = false;
-                move = false;
-                transform.position = currentPos;
+
+                if (drag)
+                {
+                    drag = false;
+                    move = false;
+                    transform.position = currentPos;
+                }
             }
         }
     }

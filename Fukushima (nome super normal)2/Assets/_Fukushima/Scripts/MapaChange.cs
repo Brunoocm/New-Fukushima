@@ -1,10 +1,9 @@
 using System.Collections;
 using System.Collections.Generic;
-using UnityEditor.PackageManager;
 using UnityEngine;
 using UnityEngine.EventSystems;
 
-public class MapaChange : MonoBehaviour, IPointerDownHandler
+public class MapaChange : MonoBehaviour
 {
     public Transform posQuarto;
     public Transform posEscritorio;
@@ -35,6 +34,7 @@ public class MapaChange : MonoBehaviour, IPointerDownHandler
 
     void Update()
     {
+        print(delegaciaEnabled);
         if (chave.hasObjectItem)
         {
             escritorioButton.gameObject.SetActive(true);
@@ -77,10 +77,9 @@ public class MapaChange : MonoBehaviour, IPointerDownHandler
     public void setTrueDelegado()
     {
         delegaciaEnabled = true;
-
     }
 
-    public void OnPointerDown(PointerEventData eventData)
+    public void ViagemRapida()
     {
         if (localName == "Escritorio") Escritorio();
         if (localName == "Casa") Casa();

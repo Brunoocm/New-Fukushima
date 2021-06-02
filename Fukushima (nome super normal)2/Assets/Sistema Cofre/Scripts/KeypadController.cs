@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.Events;
 
 public class KeypadController : MonoBehaviour
 {
@@ -9,6 +10,8 @@ public class KeypadController : MonoBehaviour
     public string password;
     public int passwordLimit;
     public Text passwordText;
+
+    [SerializeField] UnityEvent m_EventLoop;
 
     //[Header("Audio")]
     //public AudioSource audioSource;
@@ -50,8 +53,8 @@ public class KeypadController : MonoBehaviour
     {
         if (passwordText.text == password)
         {
-            anim.SetTrigger("abrir"); 
-
+            anim.SetTrigger("abrir");
+            m_EventLoop.Invoke();
             //door.lockedByPassword = false;
 
             //if (audioSource != null)

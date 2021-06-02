@@ -1,11 +1,15 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Events;
 
 public class MainBlocos : MonoBehaviour
 {
 
     public MoveBlocos[] blocos;
+
+    [SerializeField] UnityEvent m_Event;
+
     void Start()
     {
         
@@ -13,8 +17,11 @@ public class MainBlocos : MonoBehaviour
 
     void Update()
     {
-        print(BoolEscritorioMarido());
-    
+        if(BoolEscritorioMarido())
+        {
+            MoveBlocos.cantMove = true;
+            m_Event.Invoke();
+        }
     }
 
 
