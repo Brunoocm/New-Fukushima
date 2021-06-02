@@ -21,7 +21,8 @@ public class MoveBlocos : MonoBehaviour
 
     private void Update()
     {
-        if(hasCorrect && numBloco == currentSlot)
+
+        if (hasCorrect && numBloco == currentSlot)
         {
             isCorrect = true;
         }
@@ -29,7 +30,7 @@ public class MoveBlocos : MonoBehaviour
 
     void OnMouseDown()
     {
-
+        print("Aa");
         if (!cantMove)
         {
             mZCoord = Camera.main.WorldToScreenPoint(gameObject.transform.position).z;

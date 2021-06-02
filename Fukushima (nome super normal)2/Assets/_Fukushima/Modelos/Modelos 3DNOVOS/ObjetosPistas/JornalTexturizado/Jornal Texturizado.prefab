@@ -108,6 +108,10 @@ MonoBehaviour:
   m_MyEvent:
     m_PersistentCalls:
       m_Calls: []
+  m_EventLoop:
+    m_PersistentCalls:
+      m_Calls: []
+  interactClip: Folha
 --- !u!114 &5692386842453145463
 MonoBehaviour:
   m_ObjectHideFlags: 0

@@ -18,6 +18,8 @@ public class FirstPersonController : MonoBehaviour
 {
     private Rigidbody rb;
 
+    private float timerWalk;
+
     #region Camera Movement Variables
 
     public Camera playerCamera;
@@ -509,7 +511,7 @@ public class FirstPersonController : MonoBehaviour
         if(isWalking)
         {
             // Calculates HeadBob speed during sprint
-            if(isSprinting)
+            if (isSprinting)
             {
                 timer += Time.deltaTime * (bobSpeed + sprintSpeed);
             }
@@ -522,6 +524,14 @@ public class FirstPersonController : MonoBehaviour
             else
             {
                 timer += Time.deltaTime * bobSpeed;
+                timerWalk -= Time.deltaTime;
+
+                if (timerWalk <= 0)
+                {
+                    FindObjectOfType<AudioManager>().Play("Andar");
+
+                    timerWalk = 0.5f;
+                }
             }
             // Applies HeadBob movement
             joint.localPosition = new Vector3(jointOriginalPos.x + Mathf.Sin(timer) * bobAmount.x, jointOriginalPos.y + Mathf.Sin(timer) * bobAmount.y, jointOriginalPos.z + Mathf.Sin(timer) * bobAmount.z);

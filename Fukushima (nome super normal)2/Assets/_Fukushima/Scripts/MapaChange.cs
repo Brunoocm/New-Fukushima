@@ -5,6 +5,7 @@ using UnityEngine.EventSystems;
 
 public class MapaChange : MonoBehaviour
 {
+    [Header("Mapa")]
     public Transform posQuarto;
     public Transform posEscritorio;
     public Transform posDelegacia;
@@ -15,13 +16,16 @@ public class MapaChange : MonoBehaviour
     [SerializeField] GameObject DelegadoButton;
     [SerializeField] GameObject EsconderijoButton;
 
-    //[SerializeField] GameObject quarto;
-    //[SerializeField] GameObject escritorio;
-    //[SerializeField] GameObject Delegado;
-
     public ItemObject chave;
     public static bool delegaciaEnabled;
     public static bool esconderijoEnabled;
+
+    [Header("Audio")]
+    public AudioSource audioManager;
+    public AudioClip quartoClip;
+    public AudioClip escritorioClip;
+    public AudioClip delegaciaClip;
+    public AudioClip esconderijoClip;
 
     private bool selected;
     private string localName;
@@ -81,10 +85,10 @@ public class MapaChange : MonoBehaviour
 
     public void ViagemRapida()
     {
-        if (localName == "Escritorio") Escritorio();
-        if (localName == "Casa") Casa();
-        if (localName == "Delegacia") Delegacia();
-        if (localName == "Esconderijo") Esconderijo();
+        if (localName == "Escritorio"){ Escritorio(); audioManager.clip = escritorioClip; audioManager.Play(); }
+        if (localName == "Casa") { Casa(); audioManager.clip = quartoClip; audioManager.Play(); }
+        if (localName == "Delegacia") { Delegacia(); audioManager.clip = delegaciaClip; audioManager.Play(); }
+        if (localName == "Esconderijo"){ Esconderijo(); audioManager.clip = esconderijoClip; audioManager.Play(); }
         else
         {
 

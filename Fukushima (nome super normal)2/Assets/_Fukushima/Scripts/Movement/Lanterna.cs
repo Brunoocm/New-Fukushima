@@ -25,6 +25,8 @@ public class Lanterna : MonoBehaviour
         {
             ligada = ligada ? false : true;
             AtualizaHUD();
+            FindObjectOfType<AudioManager>().Play("Lanterna");
+
         }
     }
 

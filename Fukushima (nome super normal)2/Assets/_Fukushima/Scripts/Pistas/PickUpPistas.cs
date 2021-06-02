@@ -33,8 +33,12 @@ public class PickUpPistas : InteractableBase
     Image FundoText;
     TextMeshProUGUI TextForPistas;
 
+   
+
     [SerializeField] UnityEvent m_MyEvent;
     [SerializeField] UnityEvent m_EventLoop;
+
+    public string interactClip;
 
     private void Start()
     {
@@ -84,6 +88,9 @@ public class PickUpPistas : InteractableBase
             pistasController.PistaColetada(prefabPistas);
             umaVez = true;
         }
+        FindObjectOfType<AudioManager>().Play(interactClip);
+
+        
     }
 
 

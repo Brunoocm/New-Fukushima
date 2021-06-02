@@ -4,7 +4,7 @@ using System;
 
 public class AudioManager : MonoBehaviour
 {
-    //FindObjectOfType<AudioManager>().Play("nome_do_som");
+    //FindObjectOfType<AudioManager>().Play("Lanterna");
 
     public Sound[] sounds;
 

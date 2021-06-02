@@ -12,8 +12,8 @@ public class Mouse : MonoBehaviour
 
     public Transform playerBody;
     public GameObject maoCaderno;
-   
 
+    private bool oneTime;
 
     void Start()
     {
@@ -34,8 +34,11 @@ public class Mouse : MonoBehaviour
         if(Input.GetKeyDown(KeyCode.Tab) && !PauseMenu.paused)
         {
             click = !click;
-            if (click) Cursor.lockState = CursorLockMode.Confined;
+            if (click) Cursor.lockState = CursorLockMode.Confined; 
+
             if (!click) Cursor.lockState = CursorLockMode.Locked;
+
+            oneTime = true;
 
         }
 
@@ -46,20 +49,28 @@ public class Mouse : MonoBehaviour
     {
         if (!click)
         {
-            //float mouseX = Input.GetAxis("Mouse X") * mouseSensitivity * Time.deltaTime;
-            //float mouseY = Input.GetAxis("Mouse Y") * mouseSensitivity * Time.deltaTime;
-
-            //xRotation -= mouseY;
-            //xRotation = Mathf.Clamp(xRotation, -90f, 90f);
-
-            //transform.localRotation = Quaternion.Euler(xRotation, 0f, 0f);
-            //playerBody.Rotate(Vector3.up * mouseX);
 
             maoCaderno.SetActive(false);
+
+            if(oneTime)
+            {
+                FindObjectOfType<AudioManager>().Play("LivroFechando");
+         
+                oneTime = false;
+            }
         }
         else
         {
             maoCaderno.SetActive(true);
+
+
+
+            if (oneTime)
+            {
+                FindObjectOfType<AudioManager>().Play("LivroAbrindo");
+
+                oneTime = false;
+            }
         }
     }
 }

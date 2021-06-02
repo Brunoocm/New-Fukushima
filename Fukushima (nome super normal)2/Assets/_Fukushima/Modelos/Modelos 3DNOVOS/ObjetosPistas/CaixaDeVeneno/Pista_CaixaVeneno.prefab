@@ -109,6 +109,10 @@ MonoBehaviour:
   m_MyEvent:
     m_PersistentCalls:
       m_Calls: []
+  m_EventLoop:
+    m_PersistentCalls:
+      m_Calls: []
+  interactClip: Veneno
 --- !u!114 &7600973438173312966
 MonoBehaviour:
   m_ObjectHideFlags: 0

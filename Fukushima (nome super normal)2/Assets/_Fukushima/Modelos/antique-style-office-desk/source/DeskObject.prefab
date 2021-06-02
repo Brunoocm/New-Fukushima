@@ -1105,6 +1105,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -89.88098
       objectReference: {fileID: 0}
+    - target: {fileID: 4707152944857452267, guid: 9d75b564fa0d2f8418624cbecebf4b1c, type: 3}
+      propertyPath: interactClip
+      value: Colar
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9d75b564fa0d2f8418624cbecebf4b1c, type: 3}
 --- !u!4 &1782082894758116221 stripped

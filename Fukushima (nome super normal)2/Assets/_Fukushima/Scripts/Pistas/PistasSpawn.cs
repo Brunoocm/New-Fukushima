@@ -9,7 +9,7 @@ public class PistasSpawn : MonoBehaviour
     bool oneTime;
     void Start()
     {
-        pistasPivotSpawner = GameObject.FindGameObjectsWithTag("PistasPivotSpawn");
+        //pistasPivotSpawner = GameObject.FindGameObjectsWithTag("PistasPivotSpawn");
 
 
 
