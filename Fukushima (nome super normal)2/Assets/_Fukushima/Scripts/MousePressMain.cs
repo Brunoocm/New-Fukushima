@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+using UnityEngine.Events;
 public class MousePressMain : MonoBehaviour
 {
     public bool oi;
@@ -10,6 +10,8 @@ public class MousePressMain : MonoBehaviour
     public GameObject[] objects;
 
     Animator anim;
+
+    public UnityEvent m_MyEvent;
     void Start()
     {
         anim = GetComponent<Animator>();
@@ -20,7 +22,7 @@ public class MousePressMain : MonoBehaviour
         if(TaCerto())
         {
             anim.SetTrigger("Abrir");
-
+            m_MyEvent.Invoke();
         }
 
 

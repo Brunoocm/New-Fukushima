@@ -6656,6 +6656,11 @@ RectTransform:
   m_CorrespondingSourceObject: {fileID: 2849754792456918162, guid: 96317229bb8ac284183cfca918a692a4, type: 3}
   m_PrefabInstance: {fileID: 609854147}
   m_PrefabAsset: {fileID: 0}
+--- !u!65 &773366024 stripped
+BoxCollider:
+  m_CorrespondingSourceObject: {fileID: 6488792505179327242, guid: 9dcc63e312c433845b054ed530d3b9a2, type: 3}
+  m_PrefabInstance: {fileID: 987057149383046680}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &778300695
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -15494,6 +15499,42 @@ PrefabInstance:
       propertyPath: UIText
       value: 
       objectReference: {fileID: 594649802}
+    - target: {fileID: 6488792505179327242, guid: 9dcc63e312c433845b054ed530d3b9a2, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8109405313511092610, guid: 9dcc63e312c433845b054ed530d3b9a2, type: 3}
+      propertyPath: m_MyEvent.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8109405313511092610, guid: 9dcc63e312c433845b054ed530d3b9a2, type: 3}
+      propertyPath: m_MyEvent.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 8109405313511092610, guid: 9dcc63e312c433845b054ed530d3b9a2, type: 3}
+      propertyPath: m_MyEvent.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 773366024}
+    - target: {fileID: 8109405313511092610, guid: 9dcc63e312c433845b054ed530d3b9a2, type: 3}
+      propertyPath: m_MyEvent.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8109405313511092610, guid: 9dcc63e312c433845b054ed530d3b9a2, type: 3}
+      propertyPath: m_MyEvent.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: set_enabled
+      objectReference: {fileID: 0}
+    - target: {fileID: 8109405313511092610, guid: 9dcc63e312c433845b054ed530d3b9a2, type: 3}
+      propertyPath: m_MyEvent.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: UnityEngine.Collider, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 8109405313511092610, guid: 9dcc63e312c433845b054ed530d3b9a2, type: 3}
+      propertyPath: m_MyEvent.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_BoolArgument
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8109405313511092610, guid: 9dcc63e312c433845b054ed530d3b9a2, type: 3}
+      propertyPath: m_MyEvent.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
     - target: {fileID: 8109405313511092614, guid: 9dcc63e312c433845b054ed530d3b9a2, type: 3}
       propertyPath: m_LocalPosition.y
       value: -0.151
