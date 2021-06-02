@@ -8,6 +8,8 @@ public class FeedbackHandler : MonoBehaviour
     [SerializeField] private GameObject feedbackPista;
     [SerializeField] private GameObject feedbackPublicarMateria;
 
+    public static FeedbackHandler instance;
+
     public enum feedbackType
     {
         NovoLocal,
@@ -17,6 +19,8 @@ public class FeedbackHandler : MonoBehaviour
 
     private void Awake()
     {
+        instance = this;
+        
         feedbackPista.SetActive(false);
         feedbackLocal.SetActive(false);
         feedbackPublicarMateria.SetActive(false);

@@ -32,7 +32,7 @@ public class PickUpPistas : InteractableBase
     private float timerFala;
     Image FundoText;
     TextMeshProUGUI TextForPistas;
-
+    public bool debloqueiaLocal;
    
 
     [SerializeField] UnityEvent m_MyEvent;
@@ -89,8 +89,8 @@ public class PickUpPistas : InteractableBase
             umaVez = true;
         }
         FindObjectOfType<AudioManager>().Play(interactClip);
-
-        
+        FeedbackHandler.instance.Feedback(FeedbackHandler.feedbackType.NovaPista);
+        if(debloqueiaLocal) FeedbackHandler.instance.Feedback(FeedbackHandler.feedbackType.NovoLocal);
     }
 
 
