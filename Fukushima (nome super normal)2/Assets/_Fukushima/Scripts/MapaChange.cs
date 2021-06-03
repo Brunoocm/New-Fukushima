@@ -22,10 +22,15 @@ public class MapaChange : MonoBehaviour
 
     [Header("Audio")]
     public AudioSource audioManager;
+    public AudioSource audioManagerMusicas;
     public AudioClip quartoClip;
     public AudioClip escritorioClip;
     public AudioClip delegaciaClip;
     public AudioClip esconderijoClip;
+    public AudioClip trilhaQuarto;
+    public AudioClip trilhaDelegacia;
+    public AudioClip trilhaEsconderijo;
+    public AudioClip trilhaEscritorio;
 
     private bool selected;
     private string localName;
@@ -57,7 +62,16 @@ public class MapaChange : MonoBehaviour
         else
         {
             DelegadoButton.gameObject.SetActive(false);
+        }
 
+        if (esconderijoEnabled)
+        {
+            EsconderijoButton.gameObject.SetActive(true);
+
+        }
+        else
+        {
+            EsconderijoButton.gameObject.SetActive(false);
         }
     }
 
@@ -83,12 +97,45 @@ public class MapaChange : MonoBehaviour
         delegaciaEnabled = true;
     }
 
+    public void SetTrueEsconderijo() 
+    {
+        esconderijoEnabled = true;
+    }
+
     public void ViagemRapida()
     {
-        if (localName == "Escritorio"){ Escritorio(); audioManager.clip = escritorioClip; audioManager.Play(); }
-        if (localName == "Casa") { Casa(); audioManager.clip = quartoClip; audioManager.Play(); }
-        if (localName == "Delegacia") { Delegacia(); audioManager.clip = delegaciaClip; audioManager.Play(); }
-        if (localName == "Esconderijo"){ Esconderijo(); audioManager.clip = esconderijoClip; audioManager.Play(); }
+        if (localName == "Escritorio")
+        {
+            Escritorio(); 
+            audioManager.clip = escritorioClip; 
+            audioManagerMusicas.clip = trilhaEscritorio;
+            audioManager.Play(); 
+            audioManagerMusicas.Play();
+        }
+        if (localName == "Casa") 
+        { 
+            Casa(); 
+            audioManager.clip = quartoClip; 
+            audioManagerMusicas.clip = trilhaQuarto;
+            audioManager.Play(); 
+            audioManagerMusicas.Play();
+        }
+        if (localName == "Delegacia")
+        {
+            Delegacia(); 
+            audioManager.clip = delegaciaClip; 
+            audioManagerMusicas.clip = trilhaDelegacia;
+            audioManager.Play(); 
+            audioManagerMusicas.Play();
+        }
+        if (localName == "Esconderijo")
+        {
+            Esconderijo(); 
+            audioManager.clip = esconderijoClip; 
+            audioManagerMusicas.clip = trilhaEsconderijo;
+            audioManager.Play(); 
+            audioManagerMusicas.Play();
+        }
         else
         {
 

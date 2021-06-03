@@ -13,10 +13,7 @@ MonoBehaviour:
   m_Name: Colar De Uniao
   m_EditorClassIdentifier: 
   pistaName: Colar De Uniao
-  description: 'Nome: Colar De Uniao
-
-
-    Carta enviada pelo delegado.'
+  description: Colar com a foto do amante falecido do delegado Mineto
   objectImage: {fileID: 21300000, guid: e8596de2f1045824992e741de303fd72, type: 3}
   acontecendo: 0
   motivo: 1

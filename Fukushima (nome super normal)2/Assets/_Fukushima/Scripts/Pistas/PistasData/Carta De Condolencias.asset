@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Carta De Condolencias
   m_EditorClassIdentifier: 
   pistaName: "Carta De Condol\xEAncias"
-  description: "Nome: Carta De Condol\xEAncias\n\nCarta enviada pelo delegado."
+  description: Carta enviada pelo delegado Mineto.
   objectImage: {fileID: 21300000, guid: a7fe91b8ea2c9d943ac1a04a7d2f240a, type: 3}
   acontecendo: 0
   motivo: 0

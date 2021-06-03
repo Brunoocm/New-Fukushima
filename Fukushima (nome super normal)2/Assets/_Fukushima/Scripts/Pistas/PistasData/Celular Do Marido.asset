@@ -13,10 +13,7 @@ MonoBehaviour:
   m_Name: Celular Do Marido
   m_EditorClassIdentifier: 
   pistaName: Celular Do Marido
-  description: 'Nome: Celular Do Marido
-
-
-    Carta enviada pelo delegado.'
+  description: Celular de seu marido pego pelo delegado Mineto.
   objectImage: {fileID: 21300000, guid: 157dce175f7d2b949b2c35810fec6b76, type: 3}
   acontecendo: 1
   motivo: 0

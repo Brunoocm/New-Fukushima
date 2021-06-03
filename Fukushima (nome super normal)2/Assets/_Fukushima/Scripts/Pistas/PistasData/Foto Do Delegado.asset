@@ -13,10 +13,7 @@ MonoBehaviour:
   m_Name: Foto Do Delegado
   m_EditorClassIdentifier: 
   pistaName: Foto Do Delegado
-  description: 'Nome: Foto Do Delegado
-
-
-    Carta enviada pelo delegado.'
+  description: Foto do delegado Mineto junto ao seu amante falecido .
   objectImage: {fileID: 21300000, guid: 38da6d97583ec6e489796cdc710ad7aa, type: 3}
   acontecendo: 0
   motivo: 1

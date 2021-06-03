@@ -37,7 +37,7 @@ public class FeedbackHandler : MonoBehaviour
 
     IEnumerator DesativarFeedbacks() 
     {
-        yield return new WaitForSeconds(3);
+        yield return new WaitForSeconds(2.5f);
         feedbackPista.SetActive(false);
         feedbackLocal.SetActive(false);
         feedbackPublicarMateria.SetActive(false);

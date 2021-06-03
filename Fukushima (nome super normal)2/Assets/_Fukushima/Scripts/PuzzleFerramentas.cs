@@ -7,6 +7,7 @@ public class PuzzleFerramentas : MonoBehaviour
     public string ordemCorreta;
     public string ordemAtual;
     public bool puzzleCompleto;
+    public Animator animator;
 
     public Ferramenta[] ferramentas = new Ferramenta[5];
 
@@ -18,6 +19,10 @@ public class PuzzleFerramentas : MonoBehaviour
     private void Update()
     {
         ChecaResposta();
+        if(puzzleCompleto)
+        {
+            animator.SetTrigger("Aberto");
+        }
     }
 
     private void ChecaResposta()

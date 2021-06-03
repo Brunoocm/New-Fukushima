@@ -13,10 +13,7 @@ MonoBehaviour:
   m_Name: Carta Assumindo relacionamento
   m_EditorClassIdentifier: 
   pistaName: Carta Assumindo relacionamento
-  description: 'Nome: Carta Assumindo relacionamento
-
-
-    Carta enviada pelo delegado.'
+  description: Carta revelando o caso entre o delegado mineto e seu amante.
   objectImage: {fileID: 21300000, guid: 5c8dac4e3539fad498148420978f3957, type: 3}
   acontecendo: 0
   motivo: 1

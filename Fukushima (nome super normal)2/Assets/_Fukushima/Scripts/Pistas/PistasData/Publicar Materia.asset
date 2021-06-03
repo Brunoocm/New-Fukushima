@@ -13,10 +13,7 @@ MonoBehaviour:
   m_Name: Publicar Materia
   m_EditorClassIdentifier: 
   pistaName: Publicar Materia
-  description: 'Nome: Publicar Materia
-
-
-    Carta enviada pelo delegado.'
+  description: Manchete acidente nuclear em Fukushima.
   objectImage: {fileID: 21300000, guid: ffe0887f2d892b249bd75841989e35c4, type: 3}
   acontecendo: 1
   motivo: 0
