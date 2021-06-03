@@ -10,6 +10,12 @@ public class PistasController : MonoBehaviour
     public GameObject paginaPistasCorretas;
     public GameObject paginaPistasErradas;
 
+    public GameObject final1;
+    public GameObject final2;
+    public GameObject final3;
+
+    private int valor;
+
     [SerializeField] private MainPistas mainPistas;
 
     private void Awake() 
@@ -49,15 +55,33 @@ public class PistasController : MonoBehaviour
 
     public void Publicar()
     {
-        if(mainPistas.mainEscritorioMarido && mainPistas.mainCasa && mainPistas.mainEscritorioDelegado)
+
+        valor = mainPistas.mainEscritorioDelegado ? valor += 1: valor += 0;
+        valor = mainPistas.mainEscritorioMarido ? valor += 1: valor += 0;
+        valor = mainPistas.mainCasa ? valor += 1: valor += 0;
+
+        if(valor == 1)
         {
-            paginaPublicarMateria.SetActive(false);
-            paginaPistasCorretas.SetActive(true);
+            final1.SetActive(true);
+
+            final2.SetActive(false);
+            final3.SetActive(false);
         }
-        else 
+        if(valor == 2)
         {
-            paginaPublicarMateria.SetActive(false);
-            paginaPistasErradas.SetActive(true);
+            final2.SetActive(true);
+
+            final1.SetActive(false);
+            final3.SetActive(false);
+
+
+        }
+        if (valor == 3)
+        {
+            final3.SetActive(true);
+
+            final2.SetActive(false);
+            final1.SetActive(false);
         }
     }
 }
