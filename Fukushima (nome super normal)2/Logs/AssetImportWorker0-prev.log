@@ -15,11 +15,11 @@ D:/Unity/SuperNovoFukushima/Fukushima-GitHub/New-Fukushima/Fukushima (nome super
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-52663
+56169
 Successfully changed project path to: D:/Unity/SuperNovoFukushima/Fukushima-GitHub/New-Fukushima/Fukushima (nome super normal)2
 D:/Unity/SuperNovoFukushima/Fukushima-GitHub/New-Fukushima/Fukushima (nome super normal)2
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 88.48 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 81.15 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.2.6f1 (8a2143876886)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/Resources/UnitySubsystems
@@ -36,21 +36,606 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56224
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56636
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.003203 seconds.
+Registered in 0.002826 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 93.70 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 77.61 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  2.796 seconds
+- Completed reload, in  1.821 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.001973 seconds.
+Registered in 0.001734 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 75.81 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.338 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.90 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2926 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 141.8 MB.
+System memory in use after: 142.0 MB.
+
+Unloading 97 unused Assets to reduce memory usage. Loaded Objects now: 3363.
+Total: 3.185000 ms (FindLiveObjects: 0.374600 ms CreateObjectMapping: 0.115800 ms MarkObjects: 2.483000 ms  DeleteObjects: 0.210100 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/ObjetosPistas
+  artifactKey: Guid(784b14a18753b9c41beda9066f96b061) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/ObjetosPistas using Guid(784b14a18753b9c41beda9066f96b061) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '049f3e039c0b6c468308073e4caf9bb4') in 0.013103 seconds
+  Import took 0.046982 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1628.623311 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Props
+  artifactKey: Guid(77a950bdb3affbd4b83f11afda090d41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Props using Guid(77a950bdb3affbd4b83f11afda090d41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b74da74a68e8dc978e28ee29c2a5e044') in 0.009277 seconds
+  Import took 0.016912 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 72.229215 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Props/assorted-gasolinepropane-game-props
+  artifactKey: Guid(9ef13dd303d1d4444ad386051df84c77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Props/assorted-gasolinepropane-game-props using Guid(9ef13dd303d1d4444ad386051df84c77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '864fd2aca73627c919d28c1c8c23c3d6') in 0.008066 seconds
+  Import took 0.034257 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.981402 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Props/assorted-gasolinepropane-game-props/source
+  artifactKey: Guid(a3f716aa94fbe9e4ea6bc7bb7ae60ddc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Props/assorted-gasolinepropane-game-props/source using Guid(a3f716aa94fbe9e4ea6bc7bb7ae60ddc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad686902a282d2cd87fd507db1027aa4') in 0.012773 seconds
+  Import took 0.029858 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 29.093008 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Props/assorted-gasolinepropane-game-props/source/GasScene.fbx
+  artifactKey: Guid(fbad896c4f026604b8475e28d7f2bb05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Props/assorted-gasolinepropane-game-props/source/GasScene.fbx using Guid(fbad896c4f026604b8475e28d7f2bb05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '744021d1f361822180133015a9a3f125') in 0.533919 seconds
+  Import took 0.540573 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.044719 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Props/assorted-gasolinepropane-game-props/source/GasScene.fbx
+  artifactKey: Guid(fbad896c4f026604b8475e28d7f2bb05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Props/assorted-gasolinepropane-game-props/source/GasScene.fbx using Guid(fbad896c4f026604b8475e28d7f2bb05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c231ccf9be2bef218dbd20fa5c6b9b78') in 0.091575 seconds
+  Import took 0.097761 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 61.136519 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Props/assorted-gasolinepropane-game-props/textures
+  artifactKey: Guid(a0083467a3117e2419d46dc08a142304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Props/assorted-gasolinepropane-game-props/textures using Guid(a0083467a3117e2419d46dc08a142304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd14cc1b535bf43177e10d2ae5a6af069') in 0.007771 seconds
+  Import took 0.032983 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 204.453688 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Props/assorted-gasolinepropane-game-props/textures/lambert1_Base_Color.png
+  artifactKey: Guid(231d7bbb0eddb494ca3c4c3d97acaa73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Props/assorted-gasolinepropane-game-props/textures/lambert1_Base_Color.png using Guid(231d7bbb0eddb494ca3c4c3d97acaa73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70d72adf26266ac177aea2515c7a963c') in 0.039586 seconds
+  Import took 0.045074 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.013395 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Props/assorted-gasolinepropane-game-props/textures/lambert1_Base_Color.png
+  artifactKey: Guid(231d7bbb0eddb494ca3c4c3d97acaa73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Props/assorted-gasolinepropane-game-props/textures/lambert1_Base_Color.png using Guid(231d7bbb0eddb494ca3c4c3d97acaa73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70d72adf26266ac177aea2515c7a963c') in 0.015636 seconds
+  Import took 0.022358 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 65.340017 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Props/drinks-free-props-agustin-honnun/source/Props_FBX.fbx
+  artifactKey: Guid(9693047e0a606914595ae691ba0d9a0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Props/drinks-free-props-agustin-honnun/source/Props_FBX.fbx using Guid(9693047e0a606914595ae691ba0d9a0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6235d43ddc444d6122cddcc69389a811') in 0.215355 seconds
+  Import took 0.221778 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.671116 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Props/drinks-free-props-agustin-honnun/source/Props_FBX.fbx
+  artifactKey: Guid(9693047e0a606914595ae691ba0d9a0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Props/drinks-free-props-agustin-honnun/source/Props_FBX.fbx using Guid(9693047e0a606914595ae691ba0d9a0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a5472556e3fa42059613b9be6e97e30') in 0.171295 seconds
+  Import took 0.176595 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 58.570014 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Props/drinks-free-props-agustin-honnun/source/Props_FBX.fbx
+  artifactKey: Guid(9693047e0a606914595ae691ba0d9a0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Props/drinks-free-props-agustin-honnun/source/Props_FBX.fbx using Guid(9693047e0a606914595ae691ba0d9a0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '740c30576d74d675f7783813179796d8') in 0.170188 seconds
+  Import took 0.175748 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.376077 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Props/drinks-free-props-agustin-honnun/source/Props_FBX.fbx
+  artifactKey: Guid(9693047e0a606914595ae691ba0d9a0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Props/drinks-free-props-agustin-honnun/source/Props_FBX.fbx using Guid(9693047e0a606914595ae691ba0d9a0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11be91ca3a5f0f2c18e773efe937962c') in 0.170591 seconds
+  Import took 0.183164 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001422 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.73 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.102 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.89 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2772 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 138.0 MB.
+System memory in use after: 138.2 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3448.
+Total: 3.592200 ms (FindLiveObjects: 0.370000 ms CreateObjectMapping: 0.101100 ms MarkObjects: 3.030200 ms  DeleteObjects: 0.088900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 361.790859 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Props/drinks-free-props-agustin-honnun/source/Props_FBX.prefab
+  artifactKey: Guid(c16524a06a1c7d4478f56031da3d2175) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Props/drinks-free-props-agustin-honnun/source/Props_FBX.prefab using Guid(c16524a06a1c7d4478f56031da3d2175) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6edf8442831bd577eab8107d37d6c2c2') in 0.192339 seconds
+  Import took 0.198510 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 117.421296 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Props/house-plant/source/model
+  artifactKey: Guid(b32a787b562f618468ef1ebb74dbf808) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Props/house-plant/source/model using Guid(b32a787b562f618468ef1ebb74dbf808) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '375b41832a626a8fa375b368202d3880') in 0.008584 seconds
+  Import took 0.015336 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.608450 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Props/house-plant/source/model/model.dae
+  artifactKey: Guid(18236963d44ef084fb396663b7c67674) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Props/house-plant/source/model/model.dae using Guid(18236963d44ef084fb396663b7c67674) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '719a3af25dc37fd83a49febfb22e325a') in 0.092634 seconds
+  Import took 0.120200 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.254727 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Props/house-plant/source/model/model.dae
+  artifactKey: Guid(18236963d44ef084fb396663b7c67674) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Props/house-plant/source/model/model.dae using Guid(18236963d44ef084fb396663b7c67674) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '234ec1842e0287b2b4815de627ce6787') in 0.051004 seconds
+  Import took 0.058804 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 51.306345 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Props/house-plant/source/model/textures
+  artifactKey: Guid(76d999ae9c406c64d9bad53e74f775a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Props/house-plant/source/model/textures using Guid(76d999ae9c406c64d9bad53e74f775a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5847be209dc6aa82eaab639d3bc6362b') in 0.002688 seconds
+  Import took 0.008673 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 65.552513 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Props/house-plant/source/model/model.dae
+  artifactKey: Guid(18236963d44ef084fb396663b7c67674) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Props/house-plant/source/model/model.dae using Guid(18236963d44ef084fb396663b7c67674) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87f4aa53964b3143035617f94c37301e') in 0.044491 seconds
+  Import took 0.051637 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 83.789311 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Props/house-plant/source/model/model.dae
+  artifactKey: Guid(18236963d44ef084fb396663b7c67674) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Props/house-plant/source/model/model.dae using Guid(18236963d44ef084fb396663b7c67674) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6bfd0ed431406f3ff29241c139bb0c17') in 0.041535 seconds
+  Import took 0.049085 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 42.344548 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Props/kyoto-cityscene-props/source/Props Kyoto.fbx
+  artifactKey: Guid(1e4a90fd81531cc41b3da8ac1508f5f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Props/kyoto-cityscene-props/source/Props Kyoto.fbx using Guid(1e4a90fd81531cc41b3da8ac1508f5f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec9b6a5979edc69900472ea30766cb18') in 0.129375 seconds
+  Import took 0.134431 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 61.988459 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Props/kyoto-cityscene-props/source/Props Kyoto.fbx
+  artifactKey: Guid(1e4a90fd81531cc41b3da8ac1508f5f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Props/kyoto-cityscene-props/source/Props Kyoto.fbx using Guid(1e4a90fd81531cc41b3da8ac1508f5f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b76750802844ccff61790ceedac4ed4') in 0.106287 seconds
+  Import took 0.120131 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 95.069001 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Props/kyoto-cityscene-props/source/Props Kyoto.prefab
+  artifactKey: Guid(a3e1a01e3f7c4b9498a49688a6473ab1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Props/kyoto-cityscene-props/source/Props Kyoto.prefab using Guid(a3e1a01e3f7c4b9498a49688a6473ab1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1bb9804adb93e2b639a99458ec74e2c8') in 0.020146 seconds
+  Import took 0.037590 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 91.132323 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Props/kyoto-cityscene-props/source/Props Kyoto.fbx
+  artifactKey: Guid(1e4a90fd81531cc41b3da8ac1508f5f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Props/kyoto-cityscene-props/source/Props Kyoto.fbx using Guid(1e4a90fd81531cc41b3da8ac1508f5f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4574980939f88206adbdb05fa57bac9e') in 0.153280 seconds
+  Import took 0.173794 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002481 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.093 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.77 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2772 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 138.4 MB.
+System memory in use after: 138.6 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3486.
+Total: 3.996100 ms (FindLiveObjects: 0.391800 ms CreateObjectMapping: 0.097300 ms MarkObjects: 3.377900 ms  DeleteObjects: 0.127400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 151.512149 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Props/kyoto-cityscene-props/source/Props Kyoto 1.prefab
+  artifactKey: Guid(5028667409917fc409a9815e8dc4bc3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Props/kyoto-cityscene-props/source/Props Kyoto 1.prefab using Guid(5028667409917fc409a9815e8dc4bc3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dbcc6b0109da06c180b9b8f5e20a28be') in 0.205107 seconds
+  Import took 0.212590 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002112 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.77 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.277 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.93 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2772 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 138.5 MB.
+System memory in use after: 138.7 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3524.
+Total: 5.259400 ms (FindLiveObjects: 0.688400 ms CreateObjectMapping: 0.475500 ms MarkObjects: 3.975200 ms  DeleteObjects: 0.118200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 577.701200 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Props/kyoto-cityscene-props/source/Props Kyoto.fbx
+  artifactKey: Guid(1e4a90fd81531cc41b3da8ac1508f5f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Props/kyoto-cityscene-props/source/Props Kyoto.fbx using Guid(1e4a90fd81531cc41b3da8ac1508f5f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '054b0943fb6b920256182fd67371af53') in 0.362351 seconds
+  Import took 0.370617 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001525 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.81 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.219 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2772 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 138.7 MB.
+System memory in use after: 138.9 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3562.
+Total: 7.895500 ms (FindLiveObjects: 0.802300 ms CreateObjectMapping: 0.801200 ms MarkObjects: 6.095100 ms  DeleteObjects: 0.193800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002005 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.02 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.311 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.40 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2772 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 138.7 MB.
+System memory in use after: 138.9 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3564.
+Total: 6.210600 ms (FindLiveObjects: 1.106200 ms CreateObjectMapping: 0.476800 ms MarkObjects: 4.503700 ms  DeleteObjects: 0.121700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 498.560167 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Props/kyoto-cityscene-props/source/Props Kyoto (1).prefab
+  artifactKey: Guid(99cb5b065f58c21418784a0176bdd13c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Props/kyoto-cityscene-props/source/Props Kyoto (1).prefab using Guid(99cb5b065f58c21418784a0176bdd13c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3083b8266cd2ab83069c9253a53707a') in 0.222343 seconds
+  Import took 0.229772 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 287.378405 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Props/server-cpu/source/Server.fbx
+  artifactKey: Guid(13de729faa419a349ab6ffbad7db2467) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Props/server-cpu/source/Server.fbx using Guid(13de729faa419a349ab6ffbad7db2467) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f92709df9547d07eae5577c78087a222') in 0.062775 seconds
+  Import took 0.073049 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000932 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Props/server-cpu/source/Server.fbx
+  artifactKey: Guid(13de729faa419a349ab6ffbad7db2467) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Props/server-cpu/source/Server.fbx using Guid(13de729faa419a349ab6ffbad7db2467) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f92709df9547d07eae5577c78087a222') in 0.035570 seconds
+  Import took 0.042848 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.304522 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Props/server-cpu/source/Server.fbx
+  artifactKey: Guid(13de729faa419a349ab6ffbad7db2467) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Props/server-cpu/source/Server.fbx using Guid(13de729faa419a349ab6ffbad7db2467) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a37887ae709f6de05c2c2f6cf19fe246') in 0.032745 seconds
+  Import took 0.053373 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.531381 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Props/server-cpu/source/Server.fbx
+  artifactKey: Guid(13de729faa419a349ab6ffbad7db2467) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Props/server-cpu/source/Server.fbx using Guid(13de729faa419a349ab6ffbad7db2467) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea6314de3cd2cc0887c6a56b4b38c1a6') in 0.027511 seconds
+  Import took 0.051921 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.013406 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Props/server-cpu/source/Server.fbx
+  artifactKey: Guid(13de729faa419a349ab6ffbad7db2467) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Props/server-cpu/source/Server.fbx using Guid(13de729faa419a349ab6ffbad7db2467) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea6314de3cd2cc0887c6a56b4b38c1a6') in 0.034798 seconds
+  Import took 0.042168 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.500967 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Props/server-cpu/source/Server.fbx
+  artifactKey: Guid(13de729faa419a349ab6ffbad7db2467) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Props/server-cpu/source/Server.fbx using Guid(13de729faa419a349ab6ffbad7db2467) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '954dacbb37005bf15bc061519d6cc890') in 0.032318 seconds
+  Import took 0.038615 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 30.036614 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Props/server-cpu/source/Server.fbx
+  artifactKey: Guid(13de729faa419a349ab6ffbad7db2467) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Props/server-cpu/source/Server.fbx using Guid(13de729faa419a349ab6ffbad7db2467) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3d9e53704a0ea7c8774d894c58e3df1') in 0.027156 seconds
+  Import took 0.041399 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 114.785968 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Props/server-cpu/source/Server.fbx
+  artifactKey: Guid(13de729faa419a349ab6ffbad7db2467) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Props/server-cpu/source/Server.fbx using Guid(13de729faa419a349ab6ffbad7db2467) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e355bc329ba07382815c3f8bd3ac5b6') in 0.025572 seconds
+  Import took 0.031529 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 50.068488 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Props/server-cpu/source/Server.fbx
+  artifactKey: Guid(13de729faa419a349ab6ffbad7db2467) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Props/server-cpu/source/Server.fbx using Guid(13de729faa419a349ab6ffbad7db2467) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '619c263b6d8cabaeca84d8e25f8c51cd') in 0.028889 seconds
+  Import took 0.035788 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 38.052818 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Props/server-cpu/source/Server.fbx
+  artifactKey: Guid(13de729faa419a349ab6ffbad7db2467) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Props/server-cpu/source/Server.fbx using Guid(13de729faa419a349ab6ffbad7db2467) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80f2c4c477eca698fd6c977527e4835a') in 0.022913 seconds
+  Import took 0.031892 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.359528 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Props/server-cpu/source/Server.fbx
+  artifactKey: Guid(13de729faa419a349ab6ffbad7db2467) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Props/server-cpu/source/Server.fbx using Guid(13de729faa419a349ab6ffbad7db2467) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0fee755bb6b2f602cfed65e9a3ef6b1') in 0.024880 seconds
+  Import took 0.032056 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.032439 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Props/server-cpu/source/Server.fbx
+  artifactKey: Guid(13de729faa419a349ab6ffbad7db2467) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Props/server-cpu/source/Server.fbx using Guid(13de729faa419a349ab6ffbad7db2467) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0fee755bb6b2f602cfed65e9a3ef6b1') in 0.027155 seconds
+  Import took 0.033582 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 31.027481 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Props/server-cpu/source/Server.prefab
+  artifactKey: Guid(e4324f047b8bd9b47bc4eb9a565e50e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Props/server-cpu/source/Server.prefab using Guid(e4324f047b8bd9b47bc4eb9a565e50e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3bf0e63f38e572026b78ffad7e1976a') in 0.039147 seconds
+  Import took 0.048455 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 106.235780 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Props/server-cpu/source/Server.fbx
+  artifactKey: Guid(13de729faa419a349ab6ffbad7db2467) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Props/server-cpu/source/Server.fbx using Guid(13de729faa419a349ab6ffbad7db2467) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '490ad1f89b383d99ffdc9cae7fff20f2') in 0.032007 seconds
+  Import took 0.038299 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 75.470580 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Props/water-cooler/source/model/model.dae
+  artifactKey: Guid(b2d4c0936e1935945ac1ba69b0c92d52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Props/water-cooler/source/model/model.dae using Guid(b2d4c0936e1935945ac1ba69b0c92d52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '820884ffac2c13bfb2559d3496b51e93') in 0.118311 seconds
+  Import took 0.123877 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.992596 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Props/water-cooler/source/model/model.dae
+  artifactKey: Guid(b2d4c0936e1935945ac1ba69b0c92d52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Props/water-cooler/source/model/model.dae using Guid(b2d4c0936e1935945ac1ba69b0c92d52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99f24308388e8f3a7b430195b2d883d4') in 0.112516 seconds
+  Import took 0.122483 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.286327 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Props/water-cooler/source/model/model.dae
+  artifactKey: Guid(b2d4c0936e1935945ac1ba69b0c92d52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Props/water-cooler/source/model/model.dae using Guid(b2d4c0936e1935945ac1ba69b0c92d52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb21e1402eed962a9ed81591adeb9024') in 0.114055 seconds
+  Import took 0.131014 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.903893 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Props/water-cooler/source/model/model.dae
+  artifactKey: Guid(b2d4c0936e1935945ac1ba69b0c92d52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Props/water-cooler/source/model/model.dae using Guid(b2d4c0936e1935945ac1ba69b0c92d52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9baddc94035b6b6310aff9560eff439') in 0.103601 seconds
+  Import took 0.109298 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.463078 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Props/water-cooler/source/model/model.dae
+  artifactKey: Guid(b2d4c0936e1935945ac1ba69b0c92d52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Props/water-cooler/source/model/model.dae using Guid(b2d4c0936e1935945ac1ba69b0c92d52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '875f1e947ef187c8d4da4dfd075535de') in 0.096232 seconds
+  Import took 0.102129 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.468883 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Props/water-cooler/source/model/model.dae
+  artifactKey: Guid(b2d4c0936e1935945ac1ba69b0c92d52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Props/water-cooler/source/model/model.dae using Guid(b2d4c0936e1935945ac1ba69b0c92d52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc7926582206f629f2bd6df7b6743be7') in 0.111968 seconds
+  Import took 0.117993 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.023667 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Props/water-cooler/source/model/model.dae
+  artifactKey: Guid(b2d4c0936e1935945ac1ba69b0c92d52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Props/water-cooler/source/model/model.dae using Guid(b2d4c0936e1935945ac1ba69b0c92d52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c1f6729cd39ff70df9c0c180f86a941') in 0.104122 seconds
+  Import took 0.109890 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 88.394918 seconds.
+  path: Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Props/water-cooler/source/model/model (1).prefab
+  artifactKey: Guid(a9f7fd5620641a847a535606ffcca6cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Fukushima/Modelos/Modelos 3DNOVOS/Props/water-cooler/source/model/model (1).prefab using Guid(a9f7fd5620641a847a535606ffcca6cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02d471888a0fffffc60e156d82003a0a') in 0.021377 seconds
+  Import took 0.029613 seconds .
+

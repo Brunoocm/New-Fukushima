@@ -7,6 +7,7 @@ public class PickUpItem : InteractableBase
     [Header("Inventory Data")]
     public InventoryObject inventory;
     public ItemObject item;
+    public bool desbloqueiaLocal;
     
     private void Start()
     {
@@ -19,6 +20,7 @@ public class PickUpItem : InteractableBase
         if(item)
         {
             inventory.AddItem(item, 1);
+            if(desbloqueiaLocal) FeedbackHandler.instance.Feedback(FeedbackHandler.feedbackType.NovoLocal, 3f);
             Destroy(gameObject);
             print(item.objectName);
         }

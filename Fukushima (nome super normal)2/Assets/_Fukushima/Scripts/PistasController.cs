@@ -49,7 +49,7 @@ public class PistasController : MonoBehaviour
         if(coletadas == 9) 
         {
             paginaPublicarMateria.SetActive(true);
-            FeedbackHandler.instance.Feedback(FeedbackHandler.feedbackType.PublicarMateria);
+            FeedbackHandler.instance.Feedback(FeedbackHandler.feedbackType.PublicarMateria, 3f);
         }
     } 
 

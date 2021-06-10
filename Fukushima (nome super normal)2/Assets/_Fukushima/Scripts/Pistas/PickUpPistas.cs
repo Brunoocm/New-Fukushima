@@ -89,8 +89,9 @@ public class PickUpPistas : InteractableBase
             umaVez = true;
         }
         FindObjectOfType<AudioManager>().Play(interactClip);
-        FeedbackHandler.instance.Feedback(FeedbackHandler.feedbackType.NovaPista);
-        if(debloqueiaLocal) FeedbackHandler.instance.Feedback(FeedbackHandler.feedbackType.NovoLocal);
+        FeedbackHandler.instance.Feedback(FeedbackHandler.feedbackType.NovaPista, 3f);
+        FeedbackHandler.instance.FeedbackItem();
+        if(debloqueiaLocal) FeedbackHandler.instance.Feedback(FeedbackHandler.feedbackType.NovoLocal, 3f);
     }
 
 
@@ -165,6 +166,7 @@ public class PickUpPistas : InteractableBase
             FirstPersonController.turnCamera = false;
 
             examineMode = false;
+            FeedbackHandler.instance.FeedbackItem();
         }
 
     }
