@@ -9,7 +9,7 @@ public class PickUpItem : InteractableBase
     public ItemObject item;
     public bool desbloqueiaLocal;
     
-    private void Start()
+    private void Awake()
     {
         item.hasObjectItem = false;
     }
@@ -21,7 +21,7 @@ public class PickUpItem : InteractableBase
         {
             inventory.AddItem(item, 1);
             if(desbloqueiaLocal) FeedbackHandler.instance.Feedback(FeedbackHandler.feedbackType.NovoLocal, 3f);
-            Destroy(gameObject);
+            Destroy(gameObject, 0.3f);
             print(item.objectName);
         }
 

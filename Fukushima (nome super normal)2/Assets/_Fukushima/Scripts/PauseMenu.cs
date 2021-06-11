@@ -14,6 +14,7 @@ public class PauseMenu : MonoBehaviour
     private void Awake()
     {
         lanternaScript = player.GetComponent<Lanterna>();
+        Resume();
     }
 
     private void Update()
@@ -43,5 +44,11 @@ public class PauseMenu : MonoBehaviour
         Cursor.lockState = CursorLockMode.Locked;
         paused = false;
         lanternaScript.ligaDesligaHUD();
+    }
+
+    public void ChangeScene(string name)
+    {
+        SceneManager.LoadScene(name);
+
     }
 }
