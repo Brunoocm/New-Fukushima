@@ -60,7 +60,7 @@ public class PistasController : MonoBehaviour
         valor = mainPistas.mainEscritorioMarido ? valor += 1: valor += 0;
         valor = mainPistas.mainCasa ? valor += 1: valor += 0;
 
-        if(valor == 1)
+        if(valor == 1 || valor == 0)
         {
             final1.SetActive(true);
 
