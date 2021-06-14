@@ -1,6 +1,6 @@
 Using pre-set license
 Built from '2020.2/staging' branch; Version is '2020.2.6f1 (8a2143876886) revision 9052483'; Using compiler version '192528614'; Build Type 'Release'
-OS: 'Windows 10 Home; OS build 19042.985; Version 2009; 64bit' Language: 'pt' Physical Memory: 16318 MB
+OS: 'Windows 10 Pro; OS build 18363.1440; Version 1909; 64bit' Language: 'pt' Physical Memory: 14267 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
 
  COMMAND LINE ARGUMENTS:
@@ -11,411 +11,46 @@ C:\Program Files\Unity\Hub\Editor\2020.2.6f1\Editor\Unity.exe
 -name
 AssetImportWorker0
 -projectPath
-E:/Anhembi/Inter/New-Fukushima/Fukushima (nome super normal)2
+D:/Unity/SuperNovoFukushima/Fukushima-GitHub/New-Fukushima/Fukushima (nome super normal)2
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-53496
-Successfully changed project path to: E:/Anhembi/Inter/New-Fukushima/Fukushima (nome super normal)2
-E:/Anhembi/Inter/New-Fukushima/Fukushima (nome super normal)2
+50395
+Successfully changed project path to: D:/Unity/SuperNovoFukushima/Fukushima-GitHub/New-Fukushima/Fukushima (nome super normal)2
+D:/Unity/SuperNovoFukushima/Fukushima-GitHub/New-Fukushima/Fukushima (nome super normal)2
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 64.94 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 124.46 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.2.6f1 (8a2143876886)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path E:/Anhembi/Inter/New-Fukushima/Fukushima (nome super normal)2/Assets
+[Subsystems] Discovering subsystems at path D:/Unity/SuperNovoFukushima/Fukushima-GitHub/New-Fukushima/Fukushima (nome super normal)2/Assets
 GfxDevice: creating device client; threaded=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
     Renderer: NVIDIA GeForce GTX 1050 Ti (ID=0x1c82)
     Vendor:   
     VRAM:     4018 MB
-    Driver:   27.21.14.6663
+    Driver:   27.21.14.5671
 Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
 Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56212
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56376
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.002023 seconds.
+Registered in 0.006470 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 56.25 ms, found 0 plugins.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 87.99 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.982 seconds
+- Completed reload, in  3.226 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.001373 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 63.20 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.980 seconds
-Platform modules already initialized, skipping
-========================================================================
-Worker process is ready to serve import requests
-Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
-Refreshing native plugins compatible for Editor in 0.63 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2927 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 145.1 MB.
-System memory in use after: 145.2 MB.
-
-Unloading 97 unused Assets to reduce memory usage. Loaded Objects now: 3364.
-Total: 2.488200 ms (FindLiveObjects: 0.260800 ms CreateObjectMapping: 0.129300 ms MarkObjects: 1.917400 ms  DeleteObjects: 0.179300 ms)
-
-========================================================================
-Received Import Request.
-  path: Assets/_Fukushima/Modelos/Portas/door/source
-  artifactKey: Guid(d9807c3a80176f64b8130ff5c429ef65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_Fukushima/Modelos/Portas/door/source using Guid(d9807c3a80176f64b8130ff5c429ef65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '493a71c7f158441af10b11ac5c371e12') in 0.010374 seconds
-  Import took 0.043885 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000264 seconds.
-  path: Assets/_Fukushima/Modelos/Portas/door
-  artifactKey: Guid(c41af6b7e6377494db179c91b3455876) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_Fukushima/Modelos/Portas/door using Guid(c41af6b7e6377494db179c91b3455876) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c2c233e04ea23ca8389b409c10d664f') in 0.005582 seconds
-  Import took 0.017245 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000280 seconds.
-  path: Assets/_Fukushima/Modelos/Portas
-  artifactKey: Guid(e73d421e2eb804a45b3864534a82b198) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_Fukushima/Modelos/Portas using Guid(e73d421e2eb804a45b3864534a82b198) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3cfee2bfdcc080784a8be33e0a07bf47') in 0.006597 seconds
-  Import took 0.016028 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000257 seconds.
-  path: Assets/_Fukushima/Modelos/Cinza.mat
-  artifactKey: Guid(fd47e9afbbfb1db40a987767b5ee87a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_Fukushima/Modelos/Cinza.mat using Guid(fd47e9afbbfb1db40a987767b5ee87a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61ce2b1eed8ea95004e9b9905a387631') in 0.222493 seconds
-  Import took 0.226849 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000256 seconds.
-  path: Assets/_Fukushima/Modelos/Portas/door/source/door1.fbx
-  artifactKey: Guid(d40f0d698e3572340b9f2c62750afcf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_Fukushima/Modelos/Portas/door/source/door1.fbx using Guid(d40f0d698e3572340b9f2c62750afcf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4ebe56c3d1cfd525c49f42dfbc2b7bd') in 0.165549 seconds
-  Import took 0.175235 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 8.885333 seconds.
-  path: Assets/_Fukushima/Scenes/Menu.unity
-  artifactKey: Guid(bbccb6e17002bcc4cbe2fba07cb15b23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_Fukushima/Scenes/Menu.unity using Guid(bbccb6e17002bcc4cbe2fba07cb15b23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28bae5adc86c3795e93eb3384b33f7bc') in 0.007102 seconds
-  Import took 0.067600 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001572 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.63 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Warning: Annotation not found!
-UnityEngine.StackTraceUtility:ExtractStackTrace ()
-UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
-UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
-System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
-UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
-
-[Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
-
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.881 seconds
-Platform modules already initialized, skipping
-Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
-Refreshing native plugins compatible for Editor in 0.68 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2773 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 141.2 MB.
-System memory in use after: 141.4 MB.
-
-Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3447.
-Total: 4.105900 ms (FindLiveObjects: 0.333700 ms CreateObjectMapping: 0.164800 ms MarkObjects: 3.505900 ms  DeleteObjects: 0.098800 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 607.819634 seconds.
-  path: Assets/_Fukushima/Scenes/Quarto.unity
-  artifactKey: Guid(ea9a29043f9897f439c3b9b2bbd0d640) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_Fukushima/Scenes/Quarto.unity using Guid(ea9a29043f9897f439c3b9b2bbd0d640) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9e38a0d0df6226c20b2ba82f72bf663') in 0.063201 seconds
-  Import took 0.094028 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 36.011775 seconds.
-  path: Assets/_Fukushima/Modelos/Portas/door/textures
-  artifactKey: Guid(ab842813b8c47514eb45b4a51aae2538) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_Fukushima/Modelos/Portas/door/textures using Guid(ab842813b8c47514eb45b4a51aae2538) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e403a28c48bdf0243aa927b9f932f994') in 0.360341 seconds
-  Import took 0.387072 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000310 seconds.
-  path: Assets/_Fukushima/Modelos/Portas/door/textures/door1AO.png
-  artifactKey: Guid(67c1c6a09f0714649bbaeddcc0c7973a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_Fukushima/Modelos/Portas/door/textures/door1AO.png using Guid(67c1c6a09f0714649bbaeddcc0c7973a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '299886839f7d59cc59d0248ec17b6342') in 0.072743 seconds
-  Import took 0.111136 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000147 seconds.
-  path: Assets/_Fukushima/Modelos/Portas/door/textures/door1Roughness.png
-  artifactKey: Guid(1de5b23c2e7e5a34b898c0073f8a96d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_Fukushima/Modelos/Portas/door/textures/door1Roughness.png using Guid(1de5b23c2e7e5a34b898c0073f8a96d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84d38d0f3193ad477543dc7cb5cb95ff') in 0.015200 seconds
-  Import took 0.034819 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000187 seconds.
-  path: Assets/_Fukushima/Modelos/Portas/door/textures/door1Normal.png
-  artifactKey: Guid(7b48fef7f80454c4ea7bd49a8792fa21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_Fukushima/Modelos/Portas/door/textures/door1Normal.png using Guid(7b48fef7f80454c4ea7bd49a8792fa21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53d390078a5397ead784fa949c56166b') in 0.014345 seconds
-  Import took 0.019014 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000269 seconds.
-  path: Assets/_Fukushima/Modelos/Portas/door/textures/door1Color.png
-  artifactKey: Guid(6eb627d4ae93d804992637c5bf7a4724) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_Fukushima/Modelos/Portas/door/textures/door1Color.png using Guid(6eb627d4ae93d804992637c5bf7a4724) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03163ace5c558212f28f6957accf9ac9') in 0.014119 seconds
-  Import took 0.018698 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000213 seconds.
-  path: Assets/_Fukushima/Modelos/Portas/door/textures/door1Metallic.png
-  artifactKey: Guid(41d5def97370a9842b8e357e05891e53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_Fukushima/Modelos/Portas/door/textures/door1Metallic.png using Guid(41d5def97370a9842b8e357e05891e53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4542b888cd4b54da892688543d70bee0') in 0.013316 seconds
-  Import took 0.018133 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 61.229166 seconds.
-  path: Assets/_Fukushima/Modelos/Portas/door-wood
-  artifactKey: Guid(5e702313b6505db4b9d9cc46c944877f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_Fukushima/Modelos/Portas/door-wood using Guid(5e702313b6505db4b9d9cc46c944877f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da0fde56658723f97b75d0537525a2a7') in 0.342398 seconds
-  Import took 0.347465 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.508961 seconds.
-  path: Assets/_Fukushima/Modelos/Portas/door-wood/source
-  artifactKey: Guid(94e9715853d8d1646af06cb714eecce3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_Fukushima/Modelos/Portas/door-wood/source using Guid(94e9715853d8d1646af06cb714eecce3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9822e69a83b4ffb119bf9df11852ba8') in 0.003908 seconds
-  Import took 0.055805 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.602052 seconds.
-  path: Assets/_Fukushima/Modelos/Portas/door-wood/textures
-  artifactKey: Guid(44b8952a58da4ba4d8bf1573fd336603) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_Fukushima/Modelos/Portas/door-wood/textures using Guid(44b8952a58da4ba4d8bf1573fd336603) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b777eff0c22fc4ab6119733374a5fb49') in 0.004680 seconds
-  Import took 0.067983 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.025342 seconds.
-  path: Assets/_Fukushima/Modelos/Portas/door-wood/textures/image_d.png
-  artifactKey: Guid(7f5a65648f2a5fd429eaf85b3f60270f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_Fukushima/Modelos/Portas/door-wood/textures/image_d.png using Guid(7f5a65648f2a5fd429eaf85b3f60270f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf0369fb591753fbe3a827dc0f9433f5') in 0.037448 seconds
-  Import took 0.059567 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000269 seconds.
-  path: Assets/_Fukushima/Modelos/Portas/door-wood/textures/image_r.png
-  artifactKey: Guid(f6028d1c3a5c092408594b3fe369a621) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_Fukushima/Modelos/Portas/door-wood/textures/image_r.png using Guid(f6028d1c3a5c092408594b3fe369a621) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8175bd942ea9ea9bd529334eabf221ee') in 0.012162 seconds
-  Import took 0.041317 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000223 seconds.
-  path: Assets/_Fukushima/Modelos/Portas/door-wood/textures/image_o.png
-  artifactKey: Guid(ffeb550ed20515342adb96c5e3ebc0e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_Fukushima/Modelos/Portas/door-wood/textures/image_o.png using Guid(ffeb550ed20515342adb96c5e3ebc0e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91bc7e37c7b2e1ceeaa7019b3cb4bad6') in 0.014927 seconds
-  Import took 0.019575 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000275 seconds.
-  path: Assets/_Fukushima/Modelos/Portas/door-wood/textures/image_n.png
-  artifactKey: Guid(fbbcfa5dede63df4593bc17a05c41446) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_Fukushima/Modelos/Portas/door-wood/textures/image_n.png using Guid(fbbcfa5dede63df4593bc17a05c41446) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e72694d9b4fe552837f6356c98dda91e') in 0.015677 seconds
-  Import took 0.021835 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000245 seconds.
-  path: Assets/_Fukushima/Modelos/Portas/door-wood/textures/image_h.png
-  artifactKey: Guid(677923b1f7584c2488d5ab216e117a9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_Fukushima/Modelos/Portas/door-wood/textures/image_h.png using Guid(677923b1f7584c2488d5ab216e117a9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d2c9315ae626b3dbc8c5248ceeb7364') in 0.019583 seconds
-  Import took 0.025609 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000264 seconds.
-  path: Assets/_Fukushima/Modelos/Portas/door-wood/textures/image_s.png
-  artifactKey: Guid(510fbb0573bac6e4bad26f840ca719b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_Fukushima/Modelos/Portas/door-wood/textures/image_s.png using Guid(510fbb0573bac6e4bad26f840ca719b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27218d4b7c0a7ab88192f465041e64c1') in 0.015372 seconds
-  Import took 0.019792 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 2.165170 seconds.
-  path: Assets/_Fukushima/Modelos/Portas/door-wood/source/woodenDoor.zip
-  artifactKey: Guid(c24d10fa0d40aa746af611d23809030f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_Fukushima/Modelos/Portas/door-wood/source/woodenDoor.zip using Guid(c24d10fa0d40aa746af611d23809030f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31f4ea346f6526e5aa540692459a4a1e') in 0.011404 seconds
-  Import took 0.016004 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 31.652528 seconds.
-  path: Assets/_Fukushima/Modelos/Portas/door-wood/source/woodenDoor
-  artifactKey: Guid(2eb73169a00199144957115f43b1dde6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_Fukushima/Modelos/Portas/door-wood/source/woodenDoor using Guid(2eb73169a00199144957115f43b1dde6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36ee716958d6a8e555b5d52174bc6829') in 0.051851 seconds
-  Import took 0.079659 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.027783 seconds.
-  path: Assets/_Fukushima/Modelos/Portas/door-wood/source/woodenDoor/image_d.png
-  artifactKey: Guid(eb96ecda4d1e65549be1577f5c773672) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_Fukushima/Modelos/Portas/door-wood/source/woodenDoor/image_d.png using Guid(eb96ecda4d1e65549be1577f5c773672) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc44dfa592c18172f52fd433b2a93639') in 0.010912 seconds
-  Import took 0.015166 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000255 seconds.
-  path: Assets/_Fukushima/Modelos/Portas/door-wood/source/woodenDoor/image_o.png
-  artifactKey: Guid(c3300bffc6b06e34287e491bc69359fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_Fukushima/Modelos/Portas/door-wood/source/woodenDoor/image_o.png using Guid(c3300bffc6b06e34287e491bc69359fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19addae97723ead569bb8a668bb761c5') in 0.009504 seconds
-  Import took 0.045451 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000263 seconds.
-  path: Assets/_Fukushima/Modelos/Portas/door-wood/source/woodenDoor/image_n.png
-  artifactKey: Guid(6f5bc08efc60ef348a044f633aac87db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_Fukushima/Modelos/Portas/door-wood/source/woodenDoor/image_n.png using Guid(6f5bc08efc60ef348a044f633aac87db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f78d643e17414bf4d35d059a81c4f41') in 0.006997 seconds
-  Import took 0.011260 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000265 seconds.
-  path: Assets/_Fukushima/Modelos/Portas/door-wood/source/woodenDoor/image_h.png
-  artifactKey: Guid(042d34ad68a0111458597d79f516a159) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_Fukushima/Modelos/Portas/door-wood/source/woodenDoor/image_h.png using Guid(042d34ad68a0111458597d79f516a159) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b6db9f0cf09c18b1147bbaea04fc0fc') in 0.012467 seconds
-  Import took 0.043383 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000253 seconds.
-  path: Assets/_Fukushima/Modelos/Portas/door-wood/source/woodenDoor/woodenDoor_01_v1_ANIM.fbx
-  artifactKey: Guid(c969050fea27dcf46b281e50fd424cf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_Fukushima/Modelos/Portas/door-wood/source/woodenDoor/woodenDoor_01_v1_ANIM.fbx using Guid(c969050fea27dcf46b281e50fd424cf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '189e22e94086756d186a8d6bec134297') in 0.186202 seconds
-  Import took 0.203683 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000250 seconds.
-  path: Assets/_Fukushima/Modelos/Portas/door-wood/source/woodenDoor/image_s.png
-  artifactKey: Guid(6fea766b7184840478409775338db28f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_Fukushima/Modelos/Portas/door-wood/source/woodenDoor/image_s.png using Guid(6fea766b7184840478409775338db28f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1c361908adeb8f1bae28b028f537915') in 0.011765 seconds
-  Import took 0.028539 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000329 seconds.
-  path: Assets/_Fukushima/Modelos/Portas/door-wood/source/woodenDoor/image_r.png
-  artifactKey: Guid(4a1ba4803446ad34aaba468d06a9304f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_Fukushima/Modelos/Portas/door-wood/source/woodenDoor/image_r.png using Guid(4a1ba4803446ad34aaba468d06a9304f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63de6f740771773a7b35f147cb8a01ff') in 0.007226 seconds
-  Import took 0.020927 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 35.436148 seconds.
-  path: Assets/_Fukushima/Modelos/Portas/porta-da-interno
-  artifactKey: Guid(b84fce09620627946a455336c0c78723) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_Fukushima/Modelos/Portas/porta-da-interno using Guid(b84fce09620627946a455336c0c78723) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0464f85556c9f081c32afc62e23f144c') in 0.006319 seconds
-  Import took 0.066066 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.615589 seconds.
-  path: Assets/_Fukushima/Modelos/Portas/porta-da-interno/source
-  artifactKey: Guid(1160516701b30c2459846cb949f52703) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_Fukushima/Modelos/Portas/porta-da-interno/source using Guid(1160516701b30c2459846cb949f52703) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d158bf7dff6687e8ac17d59fcf1585e') in 0.007448 seconds
-  Import took 0.012067 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 11.622704 seconds.
-  path: Assets/_Fukushima/Modelos/Portas/porta-da-interno/source/door3
-  artifactKey: Guid(f77875f209fce624fa74c7facf0422a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_Fukushima/Modelos/Portas/porta-da-interno/source/door3 using Guid(f77875f209fce624fa74c7facf0422a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80ba9082670e034fa5444235397760aa') in 0.017944 seconds
-  Import took 0.071778 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.403867 seconds.
-  path: Assets/_Fukushima/Modelos/Portas/porta-da-interno/source/door3/door3
-  artifactKey: Guid(f9c1f8393a68d5742a5e3890fcb2677f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_Fukushima/Modelos/Portas/porta-da-interno/source/door3/door3 using Guid(f9c1f8393a68d5742a5e3890fcb2677f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9d64c98092b4eb2de3acb1f434291a9') in 0.063875 seconds
-  Import took 0.089783 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000281 seconds.
-  path: Assets/_Fukushima/Modelos/Portas/porta-da-interno/source/door3/door3/door3.fbx
-  artifactKey: Guid(c826aa15959930b48bdc6ecd34910d48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_Fukushima/Modelos/Portas/porta-da-interno/source/door3/door3/door3.fbx using Guid(c826aa15959930b48bdc6ecd34910d48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bbc6fec02cccf2f06e50684a79def78e') in 0.058490 seconds
-  Import took 0.078493 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000250 seconds.
-  path: Assets/_Fukushima/Modelos/Portas/porta-da-interno/source/door3/door3/TextureDoor3.jpg
-  artifactKey: Guid(1eed2efc800cc2141a7f50dfe87073cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_Fukushima/Modelos/Portas/porta-da-interno/source/door3/door3/TextureDoor3.jpg using Guid(1eed2efc800cc2141a7f50dfe87073cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b960722b0253fe2abe378bd2435a58f') in 0.016346 seconds
-  Import took 0.048613 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 11.094150 seconds.
-  path: Assets/_Fukushima/Modelos/Portas/porta-da-interno/source/door3/door3/door3.fbx
-  artifactKey: Guid(c826aa15959930b48bdc6ecd34910d48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_Fukushima/Modelos/Portas/porta-da-interno/source/door3/door3/door3.fbx using Guid(c826aa15959930b48bdc6ecd34910d48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc280161ded5ab1fe7347d65c518716c') in 0.073208 seconds
-  Import took 0.077632 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 3.616170 seconds.
-  path: Assets/_Fukushima/Modelos/Portas/porta-da-interno/source/door3/door3/door3.fbx
-  artifactKey: Guid(c826aa15959930b48bdc6ecd34910d48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_Fukushima/Modelos/Portas/porta-da-interno/source/door3/door3/door3.fbx using Guid(c826aa15959930b48bdc6ecd34910d48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf5419cff31efcfe142e2cc2196bd2b0') in 0.044484 seconds
-  Import took 0.049129 seconds .
-
+Registered in 0.028114 seconds.
